@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "skills": {
+    "openclaw-tavily-search": {
+      "version": "0.1.0",
+      "installedAt": 1775005571072
+    },
+    "summarize": {
+      "version": "1.0.0",
+      "installedAt": 1775005571793
+    },
+    "memory-hygiene": {
+      "version": "1.0.0",
+      "installedAt": 1775005572619
+    },
+    "github": {
+      "version": "1.0.0",
+      "installedAt": 1775005573452
+    },
+    "agent-browser-clawdbot": {
+      "version": "0.1.0",
+      "installedAt": 1775005574317
+    },
+    "tencentcloud-lighthouse-skill": {
+      "version": "1.0.0",
+      "installedAt": 1775005575670
+    },
+    "tencent-docs": {
+      "version": "1.0.23",
+      "installedAt": 1775005581754
+    },
+    "tencent-cos-skill": {
+      "version": "1.0.6",
+      "installedAt": 1775005583022
+    },
+    "tencent-meeting-skill": {
+      "version": "1.0.0",
+      "installedAt": 1774597324890
+    },
+    "ima-skills": {
+      "version": "1.1.2",
+      "installedAt": 1774597327547
+    },
+    "git-helper": {
+      "version": "1.0.0",
+      "installedAt": 1775005585914
+    },
+    "git-workflows": {
+      "version": "1.0.0",
+      "installedAt": 1775005586664
+    },
+    "security-scanner": {
+      "version": "1.0.0",
+      "installedAt": 1775003713821
+    },
+    "docker-sandbox": {
+      "version": "1.0.0",
+      "installedAt": 1775005589040
+    },
+    "openclaw-security-audit": {
+      "version": "1.0.0",
+      "installedAt": 1775005514374
+    },
+    "agent-git-oracle": {
+      "version": "1.0.0",
+      "installedAt": 1775005519142
+    }
+  }
+}

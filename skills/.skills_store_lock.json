@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "openclaw-security-audit": {
+      "name": "Openclaw Security Audit",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=openclaw-security-audit",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "agent-git-oracle": {
+      "name": "Agent Git Oracle",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=agent-git-oracle",
+      "source": "skillhub",
+      "version": "1.0.0"
+    }
+  }
+}
