@@ -64,6 +64,14 @@
     "agent-git-oracle": {
       "version": "1.0.0",
       "installedAt": 1775005519142
+    },
+    "skill-builder": {
+      "version": "1.0.5",
+      "installedAt": 1775021940665
+    },
+    "content-factory": {
+      "version": "1.0.0",
+      "installedAt": 1775021946518
     }
   }
 }
