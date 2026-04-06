@@ -1,94 +1,92 @@
 # OpenClaw 知识库
 
-> 学习自官方文档：https://docs.OpenClaw.ai/zh-CN/concepts/multi-agent 和 https://github.com/OpenClaw/OpenClaw
+> 创建时间: 2026-04-06
+> 来源: 用户提供的官方文档
 
-## 项目概览
+## 文档位置
 
-- **GitHub**: openclaw/openclaw
-- **Stars**: 342k | **Forks**: 67.6k | **Contributors**: 1,426+
-- **最新版本**: 2026.3.28
-- **语言**: TypeScript 89%, Swift 6.3%, Kotlin 1.6%, JavaScript 1.2%
-- **协议**: MIT License
-- **官网**: openclaw.ai
+已保存到本地知识库：
+- `/root/.openclaw/workspace/docs/knowledge/openclaw-multi-agent.md` — 多Agent路由完整文档
+- `/root/.openclaw/workspace/docs/knowledge/openclaw-github-repo.md` — GitHub仓库信息
 
-## 核心架构
+## 核心要点
 
-### Gateway (本地优先网关)
-- WebSocket 控制平面
-- 支持远程访问（SSH tunnels、Tailscale）
-- 多渠道接入（40+消息平台）
+### 1. OpenClaw 是什么
+- 个人AI助手，运行在自有设备上
+- 支持多渠道: WhatsApp, Telegram, Discord, Slack, Signal, iMessage, Feishu, WeChat等
+- 本地优先 Gateway 架构
+- MIT开源项目，Star 349k+，Forks 70k+
 
-### 关键子系统
-- **Channels**: WhatsApp, Telegram, Slack, Discord, Signal, iMessage, Microsoft Teams, Matrix, Feishu, LINE, WeChat, Nostr, IRC, etc.
-- **Apps + Nodes**: macOS app, iOS node, Android node, 远程 Gateway
-- **Tools + Automation**: Browser control, Canvas, Cron + wakeups, Webhooks, Gmail Pub/Sub, Skills platform
-- **Runtime + Safety**: Channel routing, retry policy, streaming/chunking, Presence, typing indicators, usage tracking
-- **Agent to Agent**: sessions_* tools 支持多 Agent 通信
+### 2. Multi-Agent 架构
+- **agentId**: 一个"大脑"，包含独立workspace、认证、会话存储
+- **accountId**: 频道账号实例（如WhatsApp的personal/biz账号）
+- **binding**: 通过(channel, accountId, peer)路由消息到指定agent
+- 支持多个隔离的agent运行在同一Gateway进程中
 
----
+### 3. 路由优先级（最具体优先）
+1. peer匹配（精确DM/群组/频道ID）
+2. parentPeer匹配（线程继承）
+3. guildId + roles（Discord角色路由）
+4. accountId匹配
+5. 频道级别匹配
+6. 回退到默认agent
 
-## 多智能体 (Multi-Agent) 文档要点
+### 4. 安全机制
+- DM pairing: 未知发送者需配对码
+- Per-agent沙箱和工具限制
+- 群组/频道可配置mentionPatterns
+- 工具allow/deny列表
 
-### 什么是 "One Agent"？
-一个 Agent 是一个独立的大脑，有：
-- **独立的工作空间** (workspace)
-- **独立的认证配置** (per-agent authentication)
-- **独立的会话存储** (per-agent session storage)
+### 5. 典型场景
+- Discord/Telegram多机器人账号分Agent
+- WhatsApp多号码分Agent
+- 家庭Agent绑定WhatsApp群组
+- 不同频道路由到不同Agent（如WhatsApp日常+Telegram深度工作）
 
-### 路由规则 (Routing Rules)
-**确定性路由，优先匹配最具体的规则**：
+## 配置示例
 
-1. `peer` 匹配 — 精确的 DM/群组/频道 ID
-2. `guildId` 匹配 — Discord guild
-3. `teamId` 匹配 — Slack team
-4. `channel` 的 `accountId` 匹配
-5. `channel` 级别匹配 (`accountId: "*"`)
-6. 回退到默认 Agent
-
-### 配置绑定 (Binding)
-使用 `binding` 将消息路由到指定 AgentId，格式：
-```yaml
-binding:
-  - channel: telegram
-    accountId: "123456"
-    peer: "789"       # 可选
-    agentId: "my-agent"
+```json5
+{
+  agents: {
+    list: [
+      { id: "main", workspace: "~/.openclaw/workspace-main" },
+      { id: "work", workspace: "~/.openclaw/workspace-work" },
+    ],
+  },
+  bindings: [
+    { agentId: "main", match: { channel: "whatsapp", accountId: "personal" } },
+    { agentId: "work", match: { channel: "whatsapp", accountId: "biz" } },
+  ],
+}
 ```
 
-### 多账号/多渠道场景
-- **多 WhatsApp 账号** → 每个账号对应一个 Agent
-- **WhatsApp 日常聊天 + Telegram 深度工作** → 不同 Agent 处理
-- **家庭群组** → Family Agent 专门处理 WhatsApp 群消息
+## 相关命令
 
-### Per-agent 沙箱和工具配置 (v2026.1.6+)
-每个 Agent 可以有独立的：
-- **sandbox 配置**: `mode` (off/all), `scope` (shared/agent), docker 镜像
-- **tools 限制**: allow/deny 列表控制可用工具
+- `openclaw agents add <name>` — 添加新Agent
+- `openclaw agents list --bindings` — 查看Agent绑定
+- `openclaw channels login --channel <channel> --account <account>` — 登录频道账号
+- `openclaw gateway restart` — 重启Gateway
 
-### 关键配置字段
-| 字段 | 说明 |
-|------|------|
-| `agentId` | Agent 唯一标识 |
-| `accountId` | 渠道账号实例（如 WhatsApp 登录账号） |
-| `binding` | 消息路由规则 |
-| `workspace` | Agent 工作目录 |
-| `agentDir` | Agent 认证配置目录 |
-| `sandbox` | 沙箱模式配置 |
-| `tools` | 工具允许/拒绝列表 |
+## 文档链接
 
----
-
-## Skills 平台 (ClawHub)
-
-- Skills 存放于 `skills/` 目录
-- 通过 `clawhub` CLI 管理技能安装/更新
-- Skill 结构：`SKILL.md` 定义技能说明和工具使用
-
----
-
-## 重要链接
-
-- 文档索引: https://docs.openclaw.ai
+- 官方文档: https://docs.openclaw.ai
+- Multi-Agent文档: https://docs.openclaw.ai/zh-CN/concepts/multi-agent
 - GitHub: https://github.com/openclaw/openclaw
-- 多智能体路由: https://docs.OpenClaw.ai/zh-CN/concepts/multi-agent
-- ClawHub: https://clawhub.ai
+
+---
+
+## 项目分析案例
+
+### Media Matrix Overseas (已分析)
+- 位置: `/root/business/media-matrix-overseas/`
+- 分析文档: `/root/.openclaw/workspace/docs/knowledge/media-matrix-overseas-analysis.md`
+- 类型: Docker 微服务多Agent系统
+- 技术栈: Node.js 20 Alpine + Redis + Nginx + Docker Compose
+- Agent数量: 8个 (master, dev, content, design, data, ops, support, research)
+- 编程模式: Redis BRPOP 阻塞队列 + while(true) 主循环
+
+### 可借鉴的规范
+1. 每个Agent独立目录 + 标准化Dockerfile
+2. Redis消息队列模式
+3. docker-compose统一编排
+4. .env环境变量管理 (gitignore)
