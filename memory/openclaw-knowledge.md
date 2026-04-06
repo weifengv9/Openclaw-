@@ -90,3 +90,17 @@
 2. Redis消息队列模式
 3. docker-compose统一编排
 4. .env环境变量管理 (gitignore)
+
+### Claude Code 源码分析 (已分析)
+- 位置: claude-code-main.zip (泄漏版本 2026-03-31)
+- 分析文档: `/root/.openclaw/workspace/docs/knowledge/claude-code-analysis.md`
+- 类型: AI 编程 CLI (TypeScript + Bun + Ink)
+- 代码规模: 1,900 文件, 512K+ 行
+- 核心: Tool 系统 + Command 系统 + Permission 系统
+
+### Claude Code 代码风格要点
+1. 入口文件: profileCheckpoint 最先, 并行预取启动
+2. 工具模块: buildTool() 构建器模式
+3. 特性开关: feature('FLAG') 条件导入 (Bun DCE)
+4. 延迟导入: 解决循环依赖
+5. 组件: React + Ink TUI
