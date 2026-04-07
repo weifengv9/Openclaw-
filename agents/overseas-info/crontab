@@ -1,0 +1,11 @@
+# 海外信息Agent定时任务
+# Agent #1: OverseaInfo
+
+# Hacker News 每2小时
+0 */2 * * * /root/.openclaw/workspace/agents/overseas-info/scripts/fetch-hackernews.sh >> /root/.openclaw/workspace/agents/overseas-info/logs/cron.log 2>&1
+
+# TechCrunch 每2小时
+0 */2 * * * /root/.openclaw/workspace/agents/overseas-info/scripts/fetch-techcrunch.sh >> /root/.openclaw/workspace/agents/overseas-info/logs/cron.log 2>&1
+
+# Product Hunt 每4小时
+0 */4 * * * /root/.openclaw/workspace/agents/overseas-info/scripts/fetch-producthunt.sh >> /root/.openclaw/workspace/agents/overseas-info/logs/cron.log 2>&1
