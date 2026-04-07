@@ -72,6 +72,10 @@
     "content-factory": {
       "version": "1.0.0",
       "installedAt": 1775021946518
+    },
+    "web-tools-guide": {
+      "version": "1.0.0",
+      "installedAt": 1775535952209
     }
   }
 }
