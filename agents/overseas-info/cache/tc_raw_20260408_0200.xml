@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>TechCrunch</title>
+	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://techcrunch.com/</link>
+	<description>Startup and Technology News</description>
+	<lastBuildDate>Tue, 07 Apr 2026 17:51:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.9.4</generator>
+
+<image>
+	<url>https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32</url>
+	<title>TechCrunch</title>
+	<link>https://techcrunch.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Apple&#8217;s foldable iPhone is on track to launch in September, report says</title>
+		<link>https://techcrunch.com/2026/04/07/apples-foldable-iphone-is-on-track-to-launch-in-september-report-says/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 17:47:43 +0000</pubDate>
+				<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[foldable iphone]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110175</guid>
+
+					<description><![CDATA[The news follows a report from Nikkei Asia on Tuesday that raised concerns the company’s foldable iPhone could be delayed due to challenges during the phone’s engineering test phase.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Russian government hackers broke into thousands of home routers to steal passwords</title>
+		<link>https://techcrunch.com/2026/04/07/russian-government-hackers-broke-into-thousands-of-home-routers-to-steal-passwords/</link>
+		
+		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 17:01:41 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[APT28]]></category>
+		<category><![CDATA[Black Lotus Labs]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[espionage]]></category>
+		<category><![CDATA[FBI]]></category>
+		<category><![CDATA[hackers]]></category>
+		<category><![CDATA[hacking]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[NCSC]]></category>
+		<category><![CDATA[Routers]]></category>
+		<category><![CDATA[russia]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110070</guid>
+
+					<description><![CDATA[Fancy Bear, also known as APT28, has taken over thousands of residential home routers to steal passwords and authentication tokens in a wide-ranging espionage operation.  ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chrome is finally getting vertical tabs</title>
+		<link>https://techcrunch.com/2026/04/07/chrome-is-finally-getting-vertical-tabs/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 17:00:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Arc]]></category>
+		<category><![CDATA[browsers]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[vertical tabs]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110049</guid>
+
+					<description><![CDATA[Google Chrome's latest update brings vertical tabs and a cleaner Reading Mode to help manage cluttered browsing.
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Binge is a movie tracking app that warns you of jump scares in real time</title>
+		<link>https://techcrunch.com/2026/04/07/binge-is-a-movie-tracking-app-that-warns-you-of-jump-scares-in-real-time/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 16:51:54 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[media]]></category>
+		<category><![CDATA[movies]]></category>
+		<category><![CDATA[streaming]]></category>
+		<category><![CDATA[tv]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110084</guid>
+
+					<description><![CDATA[The app uses iPhone Live Activities to alert you when scary scenes are about to happen, while also tracking what to watch and where to stream it.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Uber is the latest to be won over by Amazon&#8217;s AI chips</title>
+		<link>https://techcrunch.com/2026/04/07/uber-is-the-latest-to-be-won-over-by-amazons-ai-chips/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 16:46:59 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[AWS]]></category>
+		<category><![CDATA[Uber]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110079</guid>
+
+					<description><![CDATA[Uber is expanding its AWS contract to run more of its ride-sharing features on Amazon's chips. This is a thumb-of-the nose at Oracle and Google.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand</title>
+		<link>https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 16:05:56 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[Broadcom]]></category>
+		<category><![CDATA[Claude]]></category>
+		<category><![CDATA[compute]]></category>
+		<category><![CDATA[Google]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110066</guid>
+
+					<description><![CDATA[Anthropic bulked up its compute deal with Google and Broadcom as the company has seen its run-rate revenue surge to $30 billion. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google Maps can now write captions for your photos using AI</title>
+		<link>https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 15:30:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[gemini]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Google Maps]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110045</guid>
+
+					<description><![CDATA[Google is rolling out new features to make it easier for users to contribute local knowledge to Maps. Most notably, Gemini can now create captions when users are looking to share a photo or video about a place.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>A teenage Minecraft YouTuber raised $1,234,567 for a meme prediction market called Giggles. It broke me.</title>
+		<link>https://techcrunch.com/2026/04/07/a-teenage-minecraft-youtuber-raised-1234567-for-a-meme-prediction-market-called-giggles-it-broke-me/</link>
+		
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 14:02:08 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[giggles]]></category>
+		<category><![CDATA[justin jin]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3109981</guid>
+
+					<description><![CDATA[Justin Jin’s company Giggles – which he describes as “putting a trading app and TikTok together” – started as a joke.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>4 days left to save close to $500 on TechCrunch Disrupt 2026 passes</title>
+		<link>https://techcrunch.com/2026/04/07/4-days-left-to-save-close-to-500-on-techcrunch-disrupt-2026-passes/</link>
+		
+		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 14:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Climate]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[TechCrunch Disrupt 2026]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110003</guid>
+
+					<description><![CDATA[Four days left to save up to $482 on your TechCrunch Disrupt 2026 ticket. These low rates will disappear on April 10 at 11:59 p.m. PT. Register now.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Trump administration plans to cut cybersecurity agency&#8217;s budget by $700 million</title>
+		<link>https://techcrunch.com/2026/04/07/cisa-budget-cuts-700-million-cybersecurity-agency-trump/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 13:50:51 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[CISA]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[Trump Administration]]></category>
+		<category><![CDATA[us government]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110032</guid>
+
+					<description><![CDATA[The budget proposal would force CISA to operate with a significantly lower budget than previous years, citing the government's claims that the election misinformation programs were used to "target the President."]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Why a former AirPods engineer is now building heat pumps</title>
+		<link>https://techcrunch.com/2026/04/07/why-a-former-airpods-engineer-is-now-building-heat-pumps/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 13:00:27 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[heat pumps]]></category>
+		<category><![CDATA[hvac]]></category>
+		<category><![CDATA[Merino Energy]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3109765</guid>
+
+					<description><![CDATA[Merino Energy has simplified the heat pump dramatically in a quest to make them cheaper and easier to install.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The AI gold rush is pulling private wealth into riskier, earlier bets </title>
+		<link>https://techcrunch.com/2026/04/07/the-ai-gold-rush-is-pulling-private-wealth-into-riskier-earlier-bets/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 13:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[ai investment]]></category>
+		<category><![CDATA[Arena Private Wealth]]></category>
+		<category><![CDATA[Equity podcast]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[family office]]></category>
+		<category><![CDATA[Private Wealth]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3109391</guid>
+
+					<description><![CDATA[On a recent episode of Equity, we  talked to Arena Private Wealth to explore a growing trend: family offices bypassing VCs to gain direct exposure to AI startups, turning them from passive investors into active participants.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Adobe launches Acrobat-based Student Spaces, a free AI-powered study tool for students</title>
+		<link>https://techcrunch.com/2026/04/07/adobe-launches-acrobat-spaces-a-free-ai-powered-study-tool-for-students/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 13:00:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[Adobe Acrobat]]></category>
+		<category><![CDATA[students]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3109549</guid>
+
+					<description><![CDATA[Adobe Acrobat Student Spaces is a free tool for students to use AI and create different kinds of study material from documents.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Waymo opens robotaxi service in Nashville, partners with Lyft</title>
+		<link>https://techcrunch.com/2026/04/07/waymo-opens-robotaxi-service-in-nashville-partners-with-lyft/</link>
+		
+		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 13:00:00 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[autonomous vehicles]]></category>
+		<category><![CDATA[Lyft]]></category>
+		<category><![CDATA[Nashville]]></category>
+		<category><![CDATA[robotaxi]]></category>
+		<category><![CDATA[self-driving cars]]></category>
+		<category><![CDATA[Waymo]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3109899</guid>
+
+					<description><![CDATA[Waymo now operates commercial robotaxi services in 11 cities, with various methods to hail.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hermeus raises $350M to build unmanned hypersonic fighters</title>
+		<link>https://techcrunch.com/2026/04/07/hermeus-raises-350m-to-build-unmanned-hypersonic-fighters/</link>
+		
+		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 12:30:00 +0000</pubDate>
+				<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[aviation]]></category>
+		<category><![CDATA[defense]]></category>
+		<category><![CDATA[defense tech]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[Hermeus]]></category>
+		<category><![CDATA[Khosla Ventures]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3109147</guid>
+
+					<description><![CDATA[The defense aviation startup is coming off two successful flight demonstrations, and with the next one, it's aiming to go supersonic.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Spotify&#8217;s prompted playlist feature will now work for podcasts, too</title>
+		<link>https://techcrunch.com/2026/04/07/spotifys-prompted-playlist-feature-will-now-work-for-podcasts-too/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 12:00:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[ai playlists]]></category>
+		<category><![CDATA[podcasts]]></category>
+		<category><![CDATA[Spotify]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3109538</guid>
+
+					<description><![CDATA[Spotify will now allow users to input natural language prompts to create a podcast playlist.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost</title>
+		<link>https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/</link>
+		
+		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 05:30:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[rocket]]></category>
+		<category><![CDATA[vibe coding]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3109837</guid>
+
+					<description><![CDATA[Rocket's new AI platform combines strategy, product building, and competitive intelligence, aiming to move beyond code generation.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Picsart now lets creators make money from their designs</title>
+		<link>https://techcrunch.com/2026/04/06/ai-design-platform-picsart-launches-a-creator-monetization-program/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 04:01:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[Picsart]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3109587</guid>
+
+					<description><![CDATA[The program invites creators to create original content with Picsart tools for a specific campaign, share it on their social channels, and earn revenue based on how their audience engages.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI alums have been quietly investing from a new, potentially $100M fund </title>
+		<link>https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Mon, 06 Apr 2026 21:54:26 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[venture capital]]></category>
+		<category><![CDATA[zero shot]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3109755</guid>
+
+					<description><![CDATA[Zero Shot, a new venture capital fund with deep ties to OpenAI, is aiming to raise $100 million for its first fund. It has already written some checks.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Gas prices aren&#8217;t the only factor fueling used EV sales</title>
+		<link>https://techcrunch.com/2026/04/06/gas-prices-arent-the-only-factor-fueling-used-ev-sales/</link>
+		
+		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<pubDate>Mon, 06 Apr 2026 21:15:09 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[EV sales]]></category>
+		<category><![CDATA[EVs]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3109825</guid>
+
+					<description><![CDATA[The most recent electric vehicle sales data provided a grim picture — at least for new EVs. Used EVs are moving in the opposite direction. ]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
