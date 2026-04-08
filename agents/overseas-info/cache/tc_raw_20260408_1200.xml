@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>TechCrunch</title>
+	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://techcrunch.com/</link>
+	<description>Startup and Technology News</description>
+	<lastBuildDate>Tue, 07 Apr 2026 22:28:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.9.4</generator>
+
+<image>
+	<url>https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32</url>
+	<title>TechCrunch</title>
+	<link>https://techcrunch.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>I can&#8217;t help rooting for tiny open source AI model maker Arcee</title>
+		<link>https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 21:35:02 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Arcee AI]]></category>
+		<category><![CDATA[chinese ai]]></category>
+		<category><![CDATA[open source ai]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110230</guid>
+
+					<description><![CDATA[Arcee is a tiny 26-person U.S. startup that built a high-performing, massive, open source LLM. And it's gaining popularity with OpenClaw users.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>VC Eclipse has a new $1.3B fund to back — and build — ‘physical AI’ startups</title>
+		<link>https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/</link>
+		
+		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 21:24:54 +0000</pubDate>
+				<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[eclipse]]></category>
+		<category><![CDATA[venture]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110181</guid>
+
+					<description><![CDATA[Eclipse will put some of that money towards incubating, or building startups. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Iranian hackers are targeting American critical infrastructure, US agencies warn</title>
+		<link>https://techcrunch.com/2026/04/07/iranian-hackers-are-targeting-american-critical-infrastructure-u-s-agencies-warn/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 19:59:06 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[critical infrastructure]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[iran]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110274</guid>
+
+					<description><![CDATA[A joint FBI, NSA, and CISA advisory warns that Iranian hackers have "escalated" their tactics in response to the ongoing U.S.-Israel war with Iran.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Firmus, the &#8216;Southgate&#8217; AI data center builder backed by Nvidia, hits $5.5B valuation</title>
+		<link>https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 18:46:55 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[data centers]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[nvidia]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110209</guid>
+
+					<description><![CDATA[Nvidia-backed Asia AI data center provider Firmus has now raised $1.35 billion in six months.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Intel signs on to Elon Musk&#8217;s Terafab chips project</title>
+		<link>https://techcrunch.com/2026/04/07/intel-signs-on-to-elon-musks-terafab-chips-project/</link>
+		
+		<dc:creator><![CDATA[Tim Fernholz]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 18:10:01 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Intel]]></category>
+		<category><![CDATA[semiconductors]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110172</guid>
+
+					<description><![CDATA[Intel will join SpaceX and Tesla in an effort to build a new U.S. semiconductor factory in Texas, although the scope of its contributions are unclear.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative</title>
+		<link>https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/</link>
+		
+		<dc:creator><![CDATA[Lucas Ropek]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 18:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Mythos]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3109830</guid>
+
+					<description><![CDATA[The new model will be used by a small number of high-profile companies to engage in defensive cybersecurity work. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Apple&#8217;s foldable iPhone is on track to launch in September, report says</title>
+		<link>https://techcrunch.com/2026/04/07/apples-foldable-iphone-is-on-track-to-launch-in-september-report-says/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 17:47:43 +0000</pubDate>
+				<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[foldable iphone]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110175</guid>
+
+					<description><![CDATA[The news follows a report from Nikkei Asia on Tuesday that raised concerns the company’s foldable iPhone could be delayed due to challenges during the phone’s engineering test phase.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Russian government hackers broke into thousands of home routers to steal passwords</title>
+		<link>https://techcrunch.com/2026/04/07/russian-government-hackers-broke-into-thousands-of-home-routers-to-steal-passwords/</link>
+		
+		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 17:01:41 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[APT28]]></category>
+		<category><![CDATA[Black Lotus Labs]]></category>
+		<category><![CDATA[NCSC]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[espionage]]></category>
+		<category><![CDATA[Routers]]></category>
+		<category><![CDATA[russia]]></category>
+		<category><![CDATA[hacking]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110070</guid>
+
+					<description><![CDATA[Fancy Bear, also known as APT28, has taken over thousands of residential home routers to steal passwords and authentication tokens in a wide-ranging espionage operation.  ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chrome finally adds a better way to deal with too many open tabs</title>
+		<link>https://techcrunch.com/2026/04/07/chrome-is-finally-getting-vertical-tabs/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 17:00:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Arc]]></category>
+		<category><![CDATA[browsers]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[vertical tabs]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110049</guid>
+
+					<description><![CDATA[Google Chrome's latest update brings vertical tabs and a cleaner Reading Mode to help manage cluttered browsing.
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hate jump scares? This app warns you before they happen</title>
+		<link>https://techcrunch.com/2026/04/07/binge-is-a-movie-tracking-app-that-warns-you-of-jump-scares-in-real-time/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 16:51:54 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[media]]></category>
+		<category><![CDATA[movies]]></category>
+		<category><![CDATA[streaming]]></category>
+		<category><![CDATA[tv]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110084</guid>
+
+					<description><![CDATA[The app uses iPhone Live Activities to alert you when scary scenes are about to happen, while also tracking what to watch and where to stream it.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Uber is the latest to be won over by Amazon&#8217;s AI chips</title>
+		<link>https://techcrunch.com/2026/04/07/uber-is-the-latest-to-be-won-over-by-amazons-ai-chips/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 16:46:59 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[AWS]]></category>
+		<category><![CDATA[Uber]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110079</guid>
+
+					<description><![CDATA[Uber is expanding its AWS contract to run more of its ride-sharing features on Amazon's chips. This is a thumb-of-the nose at Oracle and Google.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand</title>
+		<link>https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 16:05:56 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[Broadcom]]></category>
+		<category><![CDATA[Claude]]></category>
+		<category><![CDATA[compute]]></category>
+		<category><![CDATA[Google]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110066</guid>
+
+					<description><![CDATA[Anthropic bulked up its compute deal with Google and Broadcom as the company has seen its run-rate revenue surge to $30 billion. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google Maps can now write captions for your photos using AI</title>
+		<link>https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 15:30:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[gemini]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Google Maps]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110045</guid>
+
+					<description><![CDATA[Google is rolling out new features to make it easier for users to contribute local knowledge to Maps. Most notably, Gemini can now create captions when users are looking to share a photo or video about a place.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>A teenage Minecraft YouTuber raised $1,234,567 for a meme prediction market called Giggles. It broke me.</title>
+		<link>https://techcrunch.com/2026/04/07/a-teenage-minecraft-youtuber-raised-1234567-for-a-meme-prediction-market-called-giggles-it-broke-me/</link>
+		
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 14:02:08 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[giggles]]></category>
+		<category><![CDATA[justin jin]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3109981</guid>
+
+					<description><![CDATA[Justin Jin’s company Giggles – which he describes as “putting a trading app and TikTok together” – started as a joke.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>4 days left to save close to $500 on TechCrunch Disrupt 2026 passes</title>
+		<link>https://techcrunch.com/2026/04/07/4-days-left-to-save-close-to-500-on-techcrunch-disrupt-2026-passes/</link>
+		
+		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 14:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Climate]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[TechCrunch Disrupt 2026]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110003</guid>
+
+					<description><![CDATA[Four days left to save up to $482 on your TechCrunch Disrupt 2026 ticket. These low rates will disappear on April 10 at 11:59 p.m. PT. Register now.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Trump administration plans to cut cybersecurity agency&#8217;s budget by $700 million</title>
+		<link>https://techcrunch.com/2026/04/07/cisa-budget-cuts-700-million-cybersecurity-agency-trump/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 13:50:51 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[CISA]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[Trump Administration]]></category>
+		<category><![CDATA[us government]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110032</guid>
+
+					<description><![CDATA[The budget proposal would force CISA to operate with a significantly lower budget than previous years, citing the government's claims that the election misinformation programs were used to "target the President."]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Why a former AirPods engineer is now building heat pumps</title>
+		<link>https://techcrunch.com/2026/04/07/why-a-former-airpods-engineer-is-now-building-heat-pumps/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 13:00:27 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[heat pumps]]></category>
+		<category><![CDATA[hvac]]></category>
+		<category><![CDATA[Merino Energy]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3109765</guid>
+
+					<description><![CDATA[Merino Energy has simplified the heat pump dramatically in a quest to make them cheaper and easier to install.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The AI gold rush is pulling private wealth into riskier, earlier bets </title>
+		<link>https://techcrunch.com/2026/04/07/the-ai-gold-rush-is-pulling-private-wealth-into-riskier-earlier-bets/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 13:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[Private Wealth]]></category>
+		<category><![CDATA[Arena Private Wealth]]></category>
+		<category><![CDATA[ai investment]]></category>
+		<category><![CDATA[family office]]></category>
+		<category><![CDATA[Equity podcast]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3109391</guid>
+
+					<description><![CDATA[On a recent episode of Equity, we  talked to Arena Private Wealth to explore a growing trend: family offices bypassing VCs to gain direct exposure to AI startups, turning them from passive investors into active participants.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Adobe launches Acrobat-based Student Spaces, a free AI-powered study tool for students</title>
+		<link>https://techcrunch.com/2026/04/07/adobe-launches-acrobat-spaces-a-free-ai-powered-study-tool-for-students/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 13:00:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[Adobe Acrobat]]></category>
+		<category><![CDATA[students]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3109549</guid>
+
+					<description><![CDATA[Adobe Acrobat Student Spaces is a free tool for students to use AI and create different kinds of study material from documents.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Waymo opens robotaxi service in Nashville, partners with Lyft</title>
+		<link>https://techcrunch.com/2026/04/07/waymo-opens-robotaxi-service-in-nashville-partners-with-lyft/</link>
+		
+		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 13:00:00 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[autonomous vehicles]]></category>
+		<category><![CDATA[Lyft]]></category>
+		<category><![CDATA[Nashville]]></category>
+		<category><![CDATA[robotaxi]]></category>
+		<category><![CDATA[self-driving cars]]></category>
+		<category><![CDATA[Waymo]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3109899</guid>
+
+					<description><![CDATA[Waymo now operates commercial robotaxi services in 11 cities, with various methods to hail.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
