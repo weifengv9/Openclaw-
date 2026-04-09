@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>TechCrunch</title>
+	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://techcrunch.com/</link>
+	<description>Startup and Technology News</description>
+	<lastBuildDate>Thu, 09 Apr 2026 21:49:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.9.4</generator>
+
+<image>
+	<url>https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32</url>
+	<title>TechCrunch</title>
+	<link>https://techcrunch.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>ChatGPT finally offers $100/month Pro plan</title>
+		<link>https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Thu, 09 Apr 2026 21:29:11 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3111133</guid>
+
+					<description><![CDATA[OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously subscriptions jumped from $20 to $200 per month.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>EFF is the latest organization to leave X</title>
+		<link>https://techcrunch.com/2026/04/09/eff-is-the-latest-organization-to-leave-x/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Thu, 09 Apr 2026 21:26:18 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[media]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[publishers]]></category>
+		<category><![CDATA[social media]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[X]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3111114</guid>
+
+					<description><![CDATA[The EFF follows the departure of various news organizations and others, who no longer find X a viable source of traffic. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>What founders can learn from Anjuna’s layoffs and recovery</title>
+		<link>https://techcrunch.com/2026/04/09/what-founders-can-learn-from-anjunas-layoffs-and-recovery/</link>
+		
+		<dc:creator><![CDATA[Maggie Nye, Isabelle Johannessen]]></dc:creator>
+		<pubDate>Thu, 09 Apr 2026 21:17:30 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Anjuna]]></category>
+		<category><![CDATA[Build Mode]]></category>
+		<category><![CDATA[founder]]></category>
+		<category><![CDATA[Layoffs]]></category>
+		<category><![CDATA[startup lessons]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3111154</guid>
+
+					<description><![CDATA[In 2021, Anjuna Security was growing fast, hiring aggressively, and chasing a market that seemed limitless. By the end of that year, the venture-backed cybersecurity company had scaled to around 75 employees, building out sales, customer success, and support teams in anticipation of continued hypergrowth. Then 2022 hit.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Volkswagen drops all-electric ID.4 in the US in pivot back to gas SUVs</title>
+		<link>https://techcrunch.com/2026/04/09/volkswagen-drops-all-electric-id-4-in-the-us-in-pivot-back-to-gas-suvs/</link>
+		
+		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<pubDate>Thu, 09 Apr 2026 21:01:36 +0000</pubDate>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[electric vehicles]]></category>
+		<category><![CDATA[EVs]]></category>
+		<category><![CDATA[ID.4]]></category>
+		<category><![CDATA[volkswagen]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110991</guid>
+
+					<description><![CDATA[All resources at its U.S. factory are aimed at the upcoming Atlas SUV.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT</title>
+		<link>https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/</link>
+		
+		<dc:creator><![CDATA[Lucas Ropek]]></dc:creator>
+		<pubDate>Thu, 09 Apr 2026 20:11:55 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[sam altman]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110924</guid>
+
+					<description><![CDATA[ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the incident.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>StubHub to pay $10M to settle FTC allegations over &#8216;deceptive&#8217; ticket pricing</title>
+		<link>https://techcrunch.com/2026/04/09/stubhub-to-pay-10m-to-settle-ftc-allegations-over-deceptive-ticket-pricing/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Thu, 09 Apr 2026 20:04:12 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[FTC]]></category>
+		<category><![CDATA[stubhub]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3111079</guid>
+
+					<description><![CDATA[The consumer protection agency says the company violated the FTC Act and its Rule on Unfair or Deceptive Fees by "deceptively" advertising ticket prices on its website without clearly disclosing upfront what the total cost would be, including all mandatory fees. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>After data breach, $10B-valued startup Mercor is having a month</title>
+		<link>https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Thu, 09 Apr 2026 19:33:54 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Delve]]></category>
+		<category><![CDATA[LiteLLM]]></category>
+		<category><![CDATA[Mercor]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110877</guid>
+
+					<description><![CDATA[After falling victim to a hacker, Mercor is facing lawsuits and reportedly losing big-name customers.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Meta AI app climbs to No. 5 on the App Store after Muse Spark launch</title>
+		<link>https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Thu, 09 Apr 2026 19:10:07 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[meta ai]]></category>
+		<category><![CDATA[muse spark]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110997</guid>
+
+					<description><![CDATA[The app was ranking No. 57 on the App Store just before Meta AI's new model launched. Now it's No. 5 — and rising. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?</title>
+		<link>https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/</link>
+		
+		<dc:creator><![CDATA[Tim Fernholz]]></dc:creator>
+		<pubDate>Thu, 09 Apr 2026 18:50:05 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[Mythos]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110914</guid>
+
+					<description><![CDATA[Anthropic said this week that it limited the release of its newest model, dubbed Mythos, because it is too capable of finding security exploits in software relied upon by users around the world. Are real cybersecurity concerns a cover for a bigger problem at the frontier lab?]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google and Intel deepen AI infrastructure partnership</title>
+		<link>https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Thu, 09 Apr 2026 18:27:47 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[ai infrastructure]]></category>
+		<category><![CDATA[cpus]]></category>
+		<category><![CDATA[google cloud]]></category>
+		<category><![CDATA[GPUS]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Intel]]></category>
+		<category><![CDATA[IPUs]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110988</guid>
+
+					<description><![CDATA[The two tech giants are looking to co-develop custom chips, at a time when demand for CPUs is high due to a growing global shortage. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>How to make the Startup Battlefield Top 20 — and what every company gets regardless</title>
+		<link>https://techcrunch.com/2026/04/09/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless/</link>
+		
+		<dc:creator><![CDATA[Isabelle Johannessen]]></dc:creator>
+		<pubDate>Thu, 09 Apr 2026 18:01:48 +0000</pubDate>
+				<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[Startup Battlefield 200]]></category>
+		<category><![CDATA[TechCrunch Disrupt 2026]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110945</guid>
+
+					<description><![CDATA[Every founder who applies to Startup Battlefield wants the same thing: the Disrupt Main Stage. Here’s how to get there and why the opportunity starts well before the main stage.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>You can now edit your Instagram comments</title>
+		<link>https://techcrunch.com/2026/04/09/you-can-now-edit-your-instagram-comments/</link>
+		
+		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
+		<pubDate>Thu, 09 Apr 2026 17:49:57 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Creators]]></category>
+		<category><![CDATA[Instagram]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[social media]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110974</guid>
+
+					<description><![CDATA[Instagram users can now edit comments, which is a long-awaited fix for anyone who’s ever had to delete and re-post a comment just to fix a typo.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Sierra&#8217;s Bret Taylor says the era of clicking buttons is over</title>
+		<link>https://techcrunch.com/2026/04/09/sierras-bret-taylor-says-the-era-of-clicking-buttons-is-over/</link>
+		
+		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
+		<pubDate>Thu, 09 Apr 2026 17:20:50 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[AI agents]]></category>
+		<category><![CDATA[Bret Taylor]]></category>
+		<category><![CDATA[Sierra Ai]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110892</guid>
+
+					<description><![CDATA[Last month, Sierra launched Ghostwriter, an agent designed to build other agents. With this “agent as a service” tool, the startup intends to replace traditional click-based web applications with natural language. Users simply describe what they need, prompting Ghostwriter to autonomously create and deploy a specialized agent to execute the task.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Avec&#8217;s Tinder-style email app allows you to swipe through your inbox</title>
+		<link>https://techcrunch.com/2026/04/09/avecs-tinder-styled-email-app-allows-you-to-swipe-through-your-inbox/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Thu, 09 Apr 2026 15:58:22 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[email]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[lightspeed venture partners]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110834</guid>
+
+					<description><![CDATA[Users can use the in-built voice transcription tool to reply to emails]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>X brings back Voice Notes to X Chat</title>
+		<link>https://techcrunch.com/2026/04/09/x-brings-back-voice-notes-to-x-chat/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Thu, 09 Apr 2026 15:46:28 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[messaging]]></category>
+		<category><![CDATA[social media]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[X]]></category>
+		<category><![CDATA[X Chat]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110872</guid>
+
+					<description><![CDATA[X Chat brings back Voice Notes to DMs and group chats after removing the option during the upgrade. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hacker stole £700,000 from UK energy company by redirecting payment</title>
+		<link>https://techcrunch.com/2026/04/09/hacker-stole-700000-from-u-k-energy-company-by-redirecting-payment/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Thu, 09 Apr 2026 15:31:10 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[business email compromise]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[energy]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110879</guid>
+
+					<description><![CDATA[The U.K. energy company said a redirected payment meant for a contractor instead landed in a hacker's bank account.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter</title>
+		<link>https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Thu, 09 Apr 2026 14:27:57 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Andy Jassy]]></category>
+		<category><![CDATA[AWS]]></category>
+		<category><![CDATA[CAPEX]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110724</guid>
+
+					<description><![CDATA[Andy Jassy's annual shareholder letter reads something like a diss track to a wide range of competitors as he defends spending $200 billion in capex.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Final 2 days to save up to $500 on your TechCrunch Disrupt 2026 ticket</title>
+		<link>https://techcrunch.com/2026/04/09/final-2-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-ticket/</link>
+		
+		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
+		<pubDate>Thu, 09 Apr 2026 14:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Biotech & Health]]></category>
+		<category><![CDATA[Climate]]></category>
+		<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[Space]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[TechCrunch Disrupt 2026]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110805</guid>
+
+					<description><![CDATA[Ticket discounts of up to $500 will end tomorrow, April 10, at 11:59 p.m. PT. After that, prices for TechCrunch Disrupt 2026 go up again. Miss this, and you’ll be paying more for the same access to one of the most anticipated tech events of the year. Register now to lock in these savings.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Spotify now lets everyone turn off videos in its app</title>
+		<link>https://techcrunch.com/2026/04/09/spotify-now-lets-everyone-turn-off-all-videos-in-its-app/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Thu, 09 Apr 2026 13:49:56 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[Spotify]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110856</guid>
+
+					<description><![CDATA[The controls can be used to choose an audio-first experience on the app or a video-enhanced one, Spotify says.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Instagram expands its movie-inspired content restrictions for teens internationally</title>
+		<link>https://techcrunch.com/2026/04/09/instagram-expands-its-movie-inspired-content-restriction-for-teens-internationally/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Thu, 09 Apr 2026 13:26:29 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Instagram]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[social media]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110846</guid>
+
+					<description><![CDATA[Instagram debuted its movie-rating-inspired content settings in limited countries in 2025.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
