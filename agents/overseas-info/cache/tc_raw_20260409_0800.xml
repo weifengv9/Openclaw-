@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>TechCrunch</title>
+	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://techcrunch.com/</link>
+	<description>Startup and Technology News</description>
+	<lastBuildDate>Wed, 08 Apr 2026 22:56:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.9.4</generator>
+
+<image>
+	<url>https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32</url>
+	<title>TechCrunch</title>
+	<link>https://techcrunch.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>WireGuard VPN developer can&#8217;t ship software updates after Microsoft locks account</title>
+		<link>https://techcrunch.com/2026/04/08/wireguard-vpn-developer-cant-ship-software-updates-after-microsoft-locks-account/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Wed, 08 Apr 2026 21:50:41 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[vpn]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[WireGuard]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110668</guid>
+
+					<description><![CDATA[The popular open source VPN maker is the second high-profile developer to say Microsoft locked his account without notifying him and is blocking their ability to send software updates to users.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>A self-driving car in Texas hit and killed a mother duck, sparking neighborhood outrage</title>
+		<link>https://techcrunch.com/2026/04/08/avride-self-driving-car-austin-kills-duck-mueller/</link>
+		
+		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<pubDate>Wed, 08 Apr 2026 21:19:07 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[autonomous vehicles]]></category>
+		<category><![CDATA[avride]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110358</guid>
+
+					<description><![CDATA[An Avride autonomous vehicle near Austin hit the duck, facing backlash from the community. "It didn't slow down or hesitate at all, just steamrolled right through," according to a witness. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AI agent Poke makes setting up automations as easy as sending a text</title>
+		<link>https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Wed, 08 Apr 2026 21:05:13 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[AI agents]]></category>
+		<category><![CDATA[ai automation]]></category>
+		<category><![CDATA[consumer AI]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[Poke]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110530</guid>
+
+					<description><![CDATA[Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Canva doubles down on AI and marketing automation with Simtheory, Ortto acquisitions</title>
+		<link>https://techcrunch.com/2026/04/08/canva-doubles-down-on-ai-and-marketing-automation-with-simtheory-ortto-acquisitions/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Wed, 08 Apr 2026 21:00:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[canva]]></category>
+		<category><![CDATA[Mergers and Acquisitions]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110421</guid>
+
+					<description><![CDATA[Canva says the acquisitions add strengths in agentic AI, data infrastructure, marketing automation, and customer engagement.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict</title>
+		<link>https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Wed, 08 Apr 2026 20:09:14 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[AWS]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[Matt Garman]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110560</guid>
+
+					<description><![CDATA[AWS has an ingrained culture of handling competition, he explained, because the cloud giant also competes with its partners. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Amazon to end support for older Kindle devices</title>
+		<link>https://techcrunch.com/2026/04/08/amazon-to-end-support-for-older-kindle-devices-2012/</link>
+		
+		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
+		<pubDate>Wed, 08 Apr 2026 19:56:16 +0000</pubDate>
+				<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Kindle]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110597</guid>
+
+					<description><![CDATA[Amazon told Kindle owners this week that it's ending support for all e-readers released in 2012 or earlier, making them virtually unable to load any new content. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Meta debuts the Muse Spark model in a &#8216;ground-up overhaul&#8217; of its AI</title>
+		<link>https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/</link>
+		
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Wed, 08 Apr 2026 18:53:19 +0000</pubDate>
+				<category><![CDATA[Social]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[muse]]></category>
+		<category><![CDATA[muse spark]]></category>
+		<category><![CDATA[Scale AI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110476</guid>
+
+					<description><![CDATA[This is the first model Meta has released under its Superintelligence Labs, led by former Scale AI CEO Alexandr Wang.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hack-for-hire group caught targeting Android devices and iCloud backups</title>
+		<link>https://techcrunch.com/2026/04/08/hack-for-hire-group-caught-targeting-android-devices-and-icloud-backups/</link>
+		
+		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
+		<pubDate>Wed, 08 Apr 2026 18:51:20 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[AccessNow]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[cyberespionage]]></category>
+		<category><![CDATA[hackers]]></category>
+		<category><![CDATA[hacking]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[Lookout]]></category>
+		<category><![CDATA[Middle East]]></category>
+		<category><![CDATA[Spyware]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110564</guid>
+
+					<description><![CDATA[Security researchers exposed a spying campaign by a hack-for-hire group that used Android spyware and phishing to steal iCloud credentials and hack victims’ devices.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Tubi is the first streamer to launch a native app within ChatGPT</title>
+		<link>https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/</link>
+		
+		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
+		<pubDate>Wed, 08 Apr 2026 18:23:06 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[streaming service]]></category>
+		<category><![CDATA[tubi]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110562</guid>
+
+					<description><![CDATA[Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Volkswagen begins testing its self-driving microbuses in Los Angeles ahead of launch with Uber</title>
+		<link>https://techcrunch.com/2026/04/08/volkswagen-moia-uber-los-angeles-testing-self-driving-microbuses-id-buzz/</link>
+		
+		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<pubDate>Wed, 08 Apr 2026 17:19:16 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[autonomous vehicles]]></category>
+		<category><![CDATA[Moia]]></category>
+		<category><![CDATA[robotaxis]]></category>
+		<category><![CDATA[Uber]]></category>
+		<category><![CDATA[volkswagen]]></category>
+		<category><![CDATA[Waymo]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110488</guid>
+
+					<description><![CDATA[Volkswagen subsidiary MOIA America still has a long and winding regulatory road before it can launch a commercial robotaxi service.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>These are the countries moving to ban social media for children</title>
+		<link>https://techcrunch.com/2026/04/08/social-media-ban-children-countries-list/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Wed, 08 Apr 2026 16:30:53 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[evergreens]]></category>
+		<category><![CDATA[social media bans]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3092894</guid>
+
+					<description><![CDATA[Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>British cryptographer Adam Back denies NYT report that he is Bitcoin creator Satoshi Nakamoto</title>
+		<link>https://techcrunch.com/2026/04/08/british-cryptographer-adam-back-denies-nyt-report-that-he-is-bitcoin-creator-satoshi-nakamoto/</link>
+		
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Wed, 08 Apr 2026 16:03:21 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[adam back]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[satoshi]]></category>
+		<category><![CDATA[satoshi nakamoto]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110418</guid>
+
+					<description><![CDATA[Back, a long-time researcher and pioneer in cryptography, denies the allegation that he is the secretive creator of Bitcoin.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Astropad&#8217;s Workbench reimagines remote desktop for AI agents, not IT support</title>
+		<link>https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Wed, 08 Apr 2026 16:01:09 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[AI agents]]></category>
+		<category><![CDATA[Astropad]]></category>
+		<category><![CDATA[remote desktop]]></category>
+		<category><![CDATA[remoteaccesssoftware]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110416</guid>
+
+					<description><![CDATA[Astropad’s Workbench lets users remotely monitor and control AI agents on Mac Minis from iPhone or iPad, with low-latency streaming and mobile access.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hackers steal and leak sensitive LAPD police documents</title>
+		<link>https://techcrunch.com/2026/04/08/hackers-steal-and-leak-sensitive-lapd-police-documents/</link>
+		
+		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
+		<pubDate>Wed, 08 Apr 2026 15:38:34 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[hacking]]></category>
+		<category><![CDATA[Los Angeles Police Department]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110439</guid>
+
+					<description><![CDATA[The LAPD said the breach affected “a digital storage system” belonging to the city’s Attorney's Office. The World Leaks extortion gang was reported to be behind the attack. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI releases a new safety blueprint to address the rise in child sexual exploitation</title>
+		<link>https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/</link>
+		
+		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
+		<pubDate>Wed, 08 Apr 2026 15:23:44 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[online child safety]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110429</guid>
+
+					<description><![CDATA[OpenAI's new Child Safety Blueprint aims to tackle the alarming rise in child sexual exploitation linked to advancements in AI.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Developer of VeraCrypt encryption software says Windows users may face boot-up issues after Microsoft locked his account</title>
+		<link>https://techcrunch.com/2026/04/08/veracrypt-encryption-software-windows-microsoft-lock-boot-issues/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Wed, 08 Apr 2026 15:21:13 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data security]]></category>
+		<category><![CDATA[encryption]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[veracrypt]]></category>
+		<category><![CDATA[Windows]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110407</guid>
+
+					<description><![CDATA[The maker of the popular open source file encryption software VeraCrypt said Microsoft locked his online account, which may prevent device owners from booting up their computers.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Databricks co-founder wins prestigious ACM award, says &#8216;AGI is here already&#8217;</title>
+		<link>https://techcrunch.com/2026/04/08/databricks-matei-zaharia-wins-acm-computing-prize-agi/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Wed, 08 Apr 2026 15:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[ACM]]></category>
+		<category><![CDATA[AGI]]></category>
+		<category><![CDATA[Databricks]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110335</guid>
+
+					<description><![CDATA[Matei Zaharia has won the top honor from the Association for Computing Machinery. Now he's working on AI for research and says AGI is simply misunderstood.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>As YouTube grows on TV, it eyes more interactive video across formats</title>
+		<link>https://techcrunch.com/2026/04/08/as-youtube-grows-on-tv-it-eyes-more-interactive-video-across-formats/</link>
+		
+		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
+		<pubDate>Wed, 08 Apr 2026 14:03:04 +0000</pubDate>
+				<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[YouTube]]></category>
+		<category><![CDATA[YouTube TV]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110403</guid>
+
+					<description><![CDATA[YouTube's hiring across roles, partnerships, and a Bengaluru hub shows how it is building out its TV strategy.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Final 3 days to save up to $500 on your TechCrunch Disrupt 2026 pass</title>
+		<link>https://techcrunch.com/2026/04/08/final-3-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/</link>
+		
+		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
+		<pubDate>Wed, 08 Apr 2026 14:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[TechCrunch Disrupt 2026]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110367</guid>
+
+					<description><![CDATA[Save up to $500 on your TechCrunch Disrupt 2026 pass until April 10, 11:59 p.m. PT. Secure your spot at the center of the tech ecosystem. Register today.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Atlassian launches visual AI tools and third-party agents in Confluence</title>
+		<link>https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Wed, 08 Apr 2026 13:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[AI agents]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[Atlassian]]></category>
+		<category><![CDATA[confluence]]></category>
+		<category><![CDATA[JIRA]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110234</guid>
+
+					<description><![CDATA[Confluence users can now create visual assets within the software in addition to new third-party agents working with Lovable, Replit, and Gamma. ]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
