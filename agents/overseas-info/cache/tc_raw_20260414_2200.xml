@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>TechCrunch</title>
+	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://techcrunch.com/</link>
+	<description>Startup and Technology News</description>
+	<lastBuildDate>Tue, 14 Apr 2026 13:55:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.9.4</generator>
+
+<image>
+	<url>https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32</url>
+	<title>TechCrunch</title>
+	<link>https://techcrunch.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Amazon to buy Globalstar for $11.57B in bid to flesh out its satellite biz</title>
+		<link>https://techcrunch.com/2026/04/14/amazon-to-buy-globalstar-for-11-57b-in-bid-to-flesh-out-its-satellite-biz/</link>
+		
+		<dc:creator><![CDATA[Ram Iyer]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2026 13:55:42 +0000</pubDate>
+				<category><![CDATA[Space]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[amazon leo]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[globalstar]]></category>
+		<category><![CDATA[SpaceX]]></category>
+		<category><![CDATA[Starlink]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112153</guid>
+
+					<description><![CDATA[Amazon on Tuesday agreed to buy satellite company Globalstar, known for powering Apple's "Emergency SOS" feature, for $11.57 billion in cash.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Lucid Motors names new CEO, lands more money from Uber and Saudis</title>
+		<link>https://techcrunch.com/2026/04/14/lucid-motors-names-new-ceo-lands-more-money-from-uber-and-saudis/</link>
+		
+		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2026 12:22:22 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[electric vehicles]]></category>
+		<category><![CDATA[EVs]]></category>
+		<category><![CDATA[Lucid Motors]]></category>
+		<category><![CDATA[Saudi arabian public investment fund]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112145</guid>
+
+					<description><![CDATA[The search for a new CEO, which lasted over a year following the sudden resignation of Peter Rawlinson, is finally over. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Inertia moves to commercialize one of the world’s most elaborate science experiments</title>
+		<link>https://techcrunch.com/2026/04/14/inertia-moves-to-commercialize-one-of-the-worlds-most-elaborate-science-experiments/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2026 09:00:00 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
+		<category><![CDATA[nuclear fusion]]></category>
+		<category><![CDATA[fusion power]]></category>
+		<category><![CDATA[lawrence livermore national laboratory]]></category>
+		<category><![CDATA[Inertia Enterprises]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3111011</guid>
+
+					<description><![CDATA[Inertia has signed three agreements with the Lawrence Livermore National Lab, paving the way for the company to bring its pioneering fusion reactor to market.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>An Amazon warehouse worker died on the job at Oregon facility</title>
+		<link>https://techcrunch.com/2026/04/13/an-amazon-warehouse-worker-died-on-the-job-at-oregon-facility/</link>
+		
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2026 00:26:18 +0000</pubDate>
+				<category><![CDATA[Commerce]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112039</guid>
+
+					<description><![CDATA[Though Amazon has faced issues with warehouse safety, the company said that the death was not work related.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI has bought AI personal finance startup Hiro</title>
+		<link>https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2026 00:23:33 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[acquisition]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112057</guid>
+
+					<description><![CDATA[The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Uber and Nuro begin testing premium robotaxi service in San Francisco</title>
+		<link>https://techcrunch.com/2026/04/13/uber-nuro-san-francisco-testing-premium-robotaxi-service/</link>
+		
+		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<pubDate>Mon, 13 Apr 2026 21:11:58 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[lucid]]></category>
+		<category><![CDATA[nuro]]></category>
+		<category><![CDATA[nvidia]]></category>
+		<category><![CDATA[robotaxis]]></category>
+		<category><![CDATA[Uber]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3111958</guid>
+
+					<description><![CDATA[Uber employees can now hail a Lucid robotaxi as part of the testing. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft is officially killing its Outlook Lite app next month</title>
+		<link>https://techcrunch.com/2026/04/13/microsoft-is-officially-killing-its-outlook-lite-app-next-month/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Mon, 13 Apr 2026 20:59:12 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Outlook]]></category>
+		<category><![CDATA[Outlook Lite]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3111969</guid>
+
+					<description><![CDATA[Launched in 2022, Outlook Lite is a lightweight version of the regular Outlook app, designed for Android phones with limited storage and regions with slower internet connections. The app had already been scheduled for retirement.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Thousands of rare concert recordings are landing on the Internet Archive &#8212; listen now</title>
+		<link>https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/</link>
+		
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Mon, 13 Apr 2026 20:20:47 +0000</pubDate>
+				<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Internet archive]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3111913</guid>
+
+					<description><![CDATA[Chicago-based music superfan Aadam Jacobs has been recording the concerts he goes to since the 1980s, amassing an archive of over 10,000 tapes.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>IBM pays $17M fine to end DOJ suit over DEI programs</title>
+		<link>https://techcrunch.com/2026/04/13/ibm-pays-17m-fine-to-end-doj-suit-over-dei-programs/</link>
+		
+		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
+		<pubDate>Mon, 13 Apr 2026 19:11:27 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[IBM]]></category>
+		<category><![CDATA[doj]]></category>
+		<category><![CDATA[DEI]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3111807</guid>
+
+					<description><![CDATA[IBM entered into a $17 million settlement agreement on Friday with the U.S. DOJ over allegations that it engaged in “illegal DEI practices.” ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft is working on yet another OpenClaw-like agent</title>
+		<link>https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Mon, 13 Apr 2026 19:05:19 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[ai agent]]></category>
+		<category><![CDATA[Copilot]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[openclaw]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3111806</guid>
+
+					<description><![CDATA[The new features would be geared toward enterprise customers, with better security controls than the famously risky open source OpenClaw agent.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Stanford report highlights growing disconnect between AI insiders and everyone else</title>
+		<link>https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Mon, 13 Apr 2026 18:55:37 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[sam altman]]></category>
+		<category><![CDATA[stanford ai report]]></category>
+		<category><![CDATA[public sentiment]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3111798</guid>
+
+					<description><![CDATA[Stanford’s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>FBI announces takedown of phishing operation that targeted thousands of victims</title>
+		<link>https://techcrunch.com/2026/04/13/fbi-announces-takedown-of-phishing-operation-that-targeted-thousands-of-victims/</link>
+		
+		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
+		<pubDate>Mon, 13 Apr 2026 18:41:50 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[FBI]]></category>
+		<category><![CDATA[hackers]]></category>
+		<category><![CDATA[hacking]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[phishing]]></category>
+		<category><![CDATA[W3LL]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3111909</guid>
+
+					<description><![CDATA[Cybercriminals allegedly used the W3LL phishing kit to target more than 17,000 victims worldwide, stealing their passwords and multi-factor authentication codes. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Booking.com confirms hackers accessed customers&#8217; data</title>
+		<link>https://techcrunch.com/2026/04/13/booking-com-confirms-hackers-accessed-customers-data/</link>
+		
+		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
+		<pubDate>Mon, 13 Apr 2026 17:02:31 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[booking]]></category>
+		<category><![CDATA[Booking.com]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[hackers]]></category>
+		<category><![CDATA[hacking]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3111814</guid>
+
+					<description><![CDATA[The travel giant notified customers that their personal data, including names, email addresses, and phone numbers, may have been accessed in a security incident. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge</title>
+		<link>https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/</link>
+		
+		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
+		<pubDate>Mon, 13 Apr 2026 15:22:29 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[agents]]></category>
+		<category><![CDATA[hosting]]></category>
+		<category><![CDATA[IPO]]></category>
+		<category><![CDATA[Vercel]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3111750</guid>
+
+					<description><![CDATA[While many startups founded prior to the emergence of ChatGPT are struggling to position themselves for the AI era, Vercel, a 10-year-old dev tool and website hosting platform, is benefiting from the explosion of AI-generated apps and agents.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hack at Anodot leaves over a dozen breached companies facing extortion</title>
+		<link>https://techcrunch.com/2026/04/13/hack-at-anodot-leaves-over-a-dozen-breached-companies-facing-extortion/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Mon, 13 Apr 2026 14:46:36 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Snowflake]]></category>
+		<category><![CDATA[shinyhunters]]></category>
+		<category><![CDATA[anadot]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3111735</guid>
+
+					<description><![CDATA[The data breach at Anodot, which affects customers like Rockstar Games, is the latest hack aimed at stealing data from a large number of corporate giants.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Slate Auto raises $650M to fund its affordable EV truck plans</title>
+		<link>https://techcrunch.com/2026/04/13/slate-auto-raises-650m-to-fund-its-affordable-ev-truck-plans/</link>
+		
+		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
+		<pubDate>Mon, 13 Apr 2026 13:26:33 +0000</pubDate>
+				<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[electric vehicles]]></category>
+		<category><![CDATA[EVs]]></category>
+		<category><![CDATA[jeff bezos]]></category>
+		<category><![CDATA[slate auto]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3111723</guid>
+
+					<description><![CDATA[Slate Auto's latest funding round was led by existing investor TWG Global, a firm run by LA Dodgers owner Mark Walter. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Roblox introduces &#8216;Kids&#8217; and &#8216;Select&#8217; accounts for age-appropriate access to games and chat</title>
+		<link>https://techcrunch.com/2026/04/13/roblox-introduces-kids-and-select-accounts-for-age-appropriate-access-to-games-and-chat/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Mon, 13 Apr 2026 12:15:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Roblox]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3111388</guid>
+
+					<description><![CDATA[Users aged five to nine will be assigned to a "Roblox Kids" account, and users aged nine to 15 to will be put in a "Roblox Select" account.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The largest orbital compute cluster is open for business</title>
+		<link>https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/</link>
+		
+		<dc:creator><![CDATA[Tim Fernholz]]></dc:creator>
+		<pubDate>Mon, 13 Apr 2026 07:01:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Space]]></category>
+		<category><![CDATA[Kepler Communications]]></category>
+		<category><![CDATA[Satellites]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3111482</guid>
+
+					<description><![CDATA[Kepler Communications is flying 40 GPUs in Earth orbit. And its latest customer is Sophia Space.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Trump officials may be encouraging banks to test Anthropic’s Mythos model</title>
+		<link>https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/</link>
+		
+		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
+		<pubDate>Sun, 12 Apr 2026 21:14:38 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Scott Bessent]]></category>
+		<category><![CDATA[Mythos]]></category>
+		<category><![CDATA[jerome powell]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3111711</guid>
+
+					<description><![CDATA[The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Apple reportedly testing four designs for upcoming smart glasses</title>
+		<link>https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/</link>
+		
+		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
+		<pubDate>Sun, 12 Apr 2026 19:58:42 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[SMART Glasses]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3111709</guid>
+
+					<description><![CDATA[These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
