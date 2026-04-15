@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>TechCrunch</title>
+	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://techcrunch.com/</link>
+	<description>Startup and Technology News</description>
+	<lastBuildDate>Wed, 15 Apr 2026 02:31:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.9.4</generator>
+
+<image>
+	<url>https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32</url>
+	<title>TechCrunch</title>
+	<link>https://techcrunch.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Anthropic&#8217;s rise is giving some OpenAI investors second thoughts</title>
+		<link>https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/</link>
+		
+		<dc:creator><![CDATA[Connie Loizos]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 02:31:04 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[iconiq capital]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112512</guid>
+
+					<description><![CDATA[One investor who has backed both companies told the FT that justifying OpenAI's recent round required assuming an IPO valuation of $1.2 trillion or more — making Anthropic's current $380 billion valuation look like the relative bargain. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AI data center startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report</title>
+		<link>https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2026 21:33:38 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[data centers]]></category>
+		<category><![CDATA[fluidstack]]></category>
+		<category><![CDATA[neocloud]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112415</guid>
+
+					<description><![CDATA[Fundraising is reportedly flowing for Fluidstack after it secured a $50 billion deal to build data centers for Anthropic.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Someone planted backdoors in dozens of WordPress plug-ins used in thousands of websites</title>
+		<link>https://techcrunch.com/2026/04/14/someone-planted-backdoors-in-dozens-of-wordpress-plugins-used-in-thousands-of-websites/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2026 18:31:34 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[supply chain]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112348</guid>
+
+					<description><![CDATA[Dozens of WordPress plug-ins were allegedly hijacked to push malware after they were sold to a new corporate owner.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Anthropic co-founder confirms the company briefed the Trump administration on Mythos</title>
+		<link>https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2026 18:09:12 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[jack clark]]></category>
+		<category><![CDATA[Mythos]]></category>
+		<category><![CDATA[national security]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112327</guid>
+
+					<description><![CDATA[In an interview at the Semafor World Economy summit this week, Anthropic co-founder Jack Clark explained why the company was still engaged with the U.S. government while simultaneously suing them.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>London gets closer to its first robotaxi service as Waymo begins testing</title>
+		<link>https://techcrunch.com/2026/04/14/london-gets-closer-to-its-first-robotaxi-service-as-waymo-begins-testing/</link>
+		
+		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2026 18:00:09 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[robotaxi]]></category>
+		<category><![CDATA[Waymo]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112315</guid>
+
+					<description><![CDATA[Waymo's commercial service will eventually follow testing if the U.K. government approves. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>YouTube livestreams will now hold back ads during peak engagement to protect the vibe</title>
+		<link>https://techcrunch.com/2026/04/14/youtube-livestreams-will-now-hold-back-ads-during-peak-engagement-to-protect-the-vibe/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2026 17:18:20 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[YouTube]]></category>
+		<category><![CDATA[youtube livestreams]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112274</guid>
+
+					<description><![CDATA[Until now, the only way to avoid seeing ads was by paying for a YouTube Premium subscription. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Max Hodak’s Science Corp. is preparing to place its first sensor in a human brain</title>
+		<link>https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/</link>
+		
+		<dc:creator><![CDATA[Tim Fernholz]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2026 17:13:03 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Biotech & Health]]></category>
+		<category><![CDATA[BCI]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[Max Hodak]]></category>
+		<category><![CDATA[Science Corporation]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3111799</guid>
+
+					<description><![CDATA[The device could help address multiple neurological conditions if it proves successful. One early use could be delivering gentle electrical stimulation to damaged brain or spinal cord cells to encourage healing.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google adds AI Skills to Chrome to help you save favorite workflows</title>
+		<link>https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2026 17:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[gemini]]></category>
+		<category><![CDATA[AI prompts]]></category>
+		<category><![CDATA[chrome skills]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112213</guid>
+
+					<description><![CDATA[Google is adding “Skills” to Chrome, letting users save and reuse AI prompts across websites. The feature builds on Gemini’s browser integration.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>How the rewards app Freecash scammed its way to the top of the app stores</title>
+		<link>https://techcrunch.com/2026/04/14/how-the-rewards-app-freecash-scammed-its-way-to-the-top-of-the-app-stores/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2026 16:43:09 +0000</pubDate>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[app store]]></category>
+		<category><![CDATA[app stores]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[freecash]]></category>
+		<category><![CDATA[Google Play]]></category>
+		<category><![CDATA[mobile games]]></category>
+		<category><![CDATA[rewards]]></category>
+		<category><![CDATA[scams]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3111353</guid>
+
+					<description><![CDATA[Freecash was removed from Apple's App Store after TechCrunch reached out for comment.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Financial risk management platform Pillar raises $20M seed in round led by a16z</title>
+		<link>https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z/</link>
+		
+		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2026 16:05:00 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[Banking]]></category>
+		<category><![CDATA[finance]]></category>
+		<category><![CDATA[trading]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112156</guid>
+
+					<description><![CDATA[Pillar hopes to offer sophisticated, institutional-grade tools to small and medium-sized enterprises. "Our goal is to make hedging as accessible and ubiquitous as payments or accounting software," he said.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>In just a couple weeks, StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together</title>
+		<link>https://techcrunch.com/2026/04/14/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/</link>
+		
+		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2026 15:30:49 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[Replit]]></category>
+		<category><![CDATA[StrictlyVC]]></category>
+		<category><![CDATA[TDK Ventures]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3108326</guid>
+
+					<description><![CDATA[The first StrictlyVC of the year will be coming to San Francisco before you know it.
+
+There are still a few tickets available to join us and our stacked speaker lineup April 30, so register today!]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google brings its Gemini Personal Intelligence feature to India</title>
+		<link>https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2026 14:48:34 +0000</pubDate>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[gemini]]></category>
+		<category><![CDATA[Google]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112174</guid>
+
+					<description><![CDATA[The feature lets users connect Google accounts like Gmail and Photos to get personalized answers. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Adobe fixes PDF zero-day security bug that hackers have exploited for months</title>
+		<link>https://techcrunch.com/2026/04/14/adobe-fixes-pdf-zero-day-security-bug-that-hackers-have-exploited-for-months/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2026 14:35:16 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[exploit]]></category>
+		<category><![CDATA[PDF]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112177</guid>
+
+					<description><![CDATA[It's not clear how many people were compromised by this hacking campaign, but a security researcher said the hackers were targeting victims since at least November 2025.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Tesla adds &#8216;streaks,&#8217; other stats to track how often drivers use Full Self-Driving software</title>
+		<link>https://techcrunch.com/2026/04/14/tesla-adds-streaks-and-other-stats-to-track-how-often-drivers-use-full-self-driving-software/</link>
+		
+		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2026 14:33:50 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[autonomous vehicles]]></category>
+		<category><![CDATA[FSD]]></category>
+		<category><![CDATA[Tesla]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112055</guid>
+
+					<description><![CDATA[Tesla has also made it easy to subscribe to the advanced driver assistance system.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Instacart acquires Instaleap to expand its enterprise platform internationally</title>
+		<link>https://techcrunch.com/2026/04/14/instacart-acquires-instaleap-to-expand-its-enterprise-platform-internationally/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2026 14:29:23 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Commerce]]></category>
+		<category><![CDATA[commerce]]></category>
+		<category><![CDATA[Instacart]]></category>
+		<category><![CDATA[instaleap]]></category>
+		<category><![CDATA[Mergers and Acquisitions]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112164</guid>
+
+					<description><![CDATA[The acquisition will allow the company to expand its business into international markets without needing to launch a delivery network in those regions. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>How vibe-coding app Anything is rebuilding after getting booted from the App Store twice</title>
+		<link>https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2026 14:22:44 +0000</pubDate>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[developers]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[app store]]></category>
+		<category><![CDATA[vibe coding]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112138</guid>
+
+					<description><![CDATA[Anything is planning to launch a desktop companion app to aid mobile app development after its App Store removal. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Amazon to buy Globalstar for $11.57B in bid to flesh out its satellite biz</title>
+		<link>https://techcrunch.com/2026/04/14/amazon-to-buy-globalstar-for-11-57b-in-bid-to-flesh-out-its-satellite-biz/</link>
+		
+		<dc:creator><![CDATA[Ram Iyer]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2026 13:55:42 +0000</pubDate>
+				<category><![CDATA[Space]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[amazon leo]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[globalstar]]></category>
+		<category><![CDATA[Mergers and Acquisitions]]></category>
+		<category><![CDATA[SpaceX]]></category>
+		<category><![CDATA[Starlink]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112153</guid>
+
+					<description><![CDATA[Amazon on Tuesday agreed to buy satellite company Globalstar, known for powering Apple's "Emergency SOS" feature, for $11.57 billion in cash.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Lucid Motors names new CEO, lands more money from Uber and Saudis</title>
+		<link>https://techcrunch.com/2026/04/14/lucid-motors-names-new-ceo-lands-more-money-from-uber-and-saudis/</link>
+		
+		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2026 12:22:22 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[electric vehicles]]></category>
+		<category><![CDATA[EVs]]></category>
+		<category><![CDATA[Lucid Motors]]></category>
+		<category><![CDATA[Saudi arabian public investment fund]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112145</guid>
+
+					<description><![CDATA[The search for a new CEO, which lasted over a year following the sudden resignation of Peter Rawlinson, is finally over. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Inertia moves to commercialize one of the world’s most elaborate science experiments</title>
+		<link>https://techcrunch.com/2026/04/14/inertia-moves-to-commercialize-one-of-the-worlds-most-elaborate-science-experiments/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2026 09:00:00 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
+		<category><![CDATA[nuclear fusion]]></category>
+		<category><![CDATA[fusion power]]></category>
+		<category><![CDATA[lawrence livermore national laboratory]]></category>
+		<category><![CDATA[Inertia Enterprises]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3111011</guid>
+
+					<description><![CDATA[Inertia has signed three agreements with the Lawrence Livermore National Lab, paving the way for the company to bring its pioneering fusion reactor to market.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>An Amazon warehouse worker died on the job at Oregon facility</title>
+		<link>https://techcrunch.com/2026/04/13/an-amazon-warehouse-worker-died-on-the-job-at-oregon-facility/</link>
+		
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2026 00:26:18 +0000</pubDate>
+				<category><![CDATA[Commerce]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[OSHA]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112039</guid>
+
+					<description><![CDATA[Though Amazon has faced issues with warehouse safety, the company said that the death was not work related.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
