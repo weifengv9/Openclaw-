@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>TechCrunch</title>
+	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://techcrunch.com/</link>
+	<description>Startup and Technology News</description>
+	<lastBuildDate>Wed, 15 Apr 2026 15:59:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.9.4</generator>
+
+<image>
+	<url>https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32</url>
+	<title>TechCrunch</title>
+	<link>https://techcrunch.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>After sale of its shoe business, Allbirds pivots to AI</title>
+		<link>https://techcrunch.com/2026/04/15/after-sale-of-its-shoe-business-allbirds-pivots-to-ai/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 14:24:31 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[allbirds]]></category>
+		<category><![CDATA[WTF]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112589</guid>
+
+					<description><![CDATA[Allbirds is ditching wool sneakers for AI servers, rebranding as NewBird AI after locking in a $50M convertible financing facility.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Sweden blames Russian hackers for attempting &#8216;destructive&#8217; cyberattack on thermal plant</title>
+		<link>https://techcrunch.com/2026/04/15/sweden-blames-russian-hackers-for-attempting-destructive-cyberattack-on-thermal-plant/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 14:21:39 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[critical infrastructure]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[russia]]></category>
+		<category><![CDATA[Sweden]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112602</guid>
+
+					<description><![CDATA[Sweden's minister for civil defense said Russian hackers are "now attempting destructive cyber attacks against organizations in Europe."]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Snap is cutting 1,000 jobs, 16% of its workforce</title>
+		<link>https://techcrunch.com/2026/04/15/snap-is-cutting-1000-jobs-16-of-its-workforce/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 13:54:15 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Layoffs]]></category>
+		<category><![CDATA[Snap]]></category>
+		<category><![CDATA[Snapchat]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112591</guid>
+
+					<description><![CDATA[The company cites advancements in AI for the cuts.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Reid Hoffman weighs in on the &#8216;tokenmaxxing&#8217; debate</title>
+		<link>https://techcrunch.com/2026/04/15/reid-hoffman-weighs-in-on-the-tokenmaxxing-debate/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 13:06:54 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[ai strategy]]></category>
+		<category><![CDATA[ai tokens]]></category>
+		<category><![CDATA[Reid Hoffman]]></category>
+		<category><![CDATA[tokenmaxxing]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112394</guid>
+
+					<description><![CDATA[Reid Hoffman says tracking AI token use can gauge adoption, but cautions it should be paired with context and not treated as a direct productivity metric.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Adobe&#8217;s new Firefly AI assistant can use Creative Cloud apps to complete tasks</title>
+		<link>https://techcrunch.com/2026/04/15/adobes-new-firefly-ai-assistant-can-use-creative-cloud-apps-to-complete-tasks/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 13:01:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[Creative Cloud]]></category>
+		<category><![CDATA[AI assistant]]></category>
+		<category><![CDATA[Adobe Firefly]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112536</guid>
+
+					<description><![CDATA[Adobe says the assistant can work across apps like Firefly, Photoshop, Premiere, Lightroom, Express,  Illustrator and its other apps to do tasks for you.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>This energy startup’s bet on 100-year-old grid tech is paying off</title>
+		<link>https://techcrunch.com/2026/04/15/this-energy-startups-bet-on-100-year-old-grid-tech-is-paying-off/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 13:00:00 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
+		<category><![CDATA[data centers]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[electrical grid]]></category>
+		<category><![CDATA[Ayr Energy]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3111085</guid>
+
+					<description><![CDATA[Ayr Energy is using a shortage of power conversion equipment to break open a decades-old market. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Gitar, a startup that uses agents to secure code, emerges from stealth with $9 million</title>
+		<link>https://techcrunch.com/2026/04/15/gitar-a-startup-that-uses-agents-to-secure-code-emerges-from-stealth-with-9-million/</link>
+		
+		<dc:creator><![CDATA[Lucas Ropek]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 13:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[agents]]></category>
+		<category><![CDATA[Gitar]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3111918</guid>
+
+					<description><![CDATA[The company uses AI to review code that, more often than not these days, has also been generated by AI. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>This startup is betting tokenmaxxing will create the next compute giant</title>
+		<link>https://techcrunch.com/2026/04/15/parasail-raises-32m-to-feed-tokenmaxxing-ai-developers/</link>
+		
+		<dc:creator><![CDATA[Tim Fernholz]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 13:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[Parasail]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112404</guid>
+
+					<description><![CDATA[Parasail raised $32 million in a Series A, signaling a fractured future of models and compute. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Amazon unveils a slimmer Fire TV Stick HD, opens Ember Artline TVs for preorder</title>
+		<link>https://techcrunch.com/2026/04/15/amazon-unveils-a-slimmer-fire-tv-stick-hd-opens-ember-artline-tvs-for-preorder/</link>
+		
+		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 13:00:00 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[television]]></category>
+		<category><![CDATA[Fire TV Stick]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112439</guid>
+
+					<description><![CDATA[On Wednesday, Amazon announced the launch of its new Fire TV Stick HD and Ember Artline televisions, both now available for preorder.&#160; Following the initial release of the first-generation Fire TV Stick HD two years ago, Amazon has created a new model that is its thinnest streaming device to date, the company says. Launched in [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chipmakers AMD, Arm, and Qualcomm are all investing in this buzzy self-driving tech startup</title>
+		<link>https://techcrunch.com/2026/04/15/chipmakers-amd-arm-and-qualcomm-are-all-investing-in-this-buzzy-self-driving-tech-startup/</link>
+		
+		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 13:00:00 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Funding]]></category>
+		<category><![CDATA[autonomous vehicles]]></category>
+		<category><![CDATA[wayve]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112506</guid>
+
+					<description><![CDATA[Wayve's $1.2 billion Series D round, which was announced in February, keeps growing. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>HBO Max comes to India via exclusive JioHotstar deal</title>
+		<link>https://techcrunch.com/2026/04/15/hbo-max-comes-to-india-via-exclusive-jiohotstar-deal/</link>
+		
+		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 12:47:17 +0000</pubDate>
+				<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[HBO Max]]></category>
+		<category><![CDATA[jio]]></category>
+		<category><![CDATA[JioHotstar]]></category>
+		<category><![CDATA[Warner Bros. Discovery]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112544</guid>
+
+					<description><![CDATA[HBO Max will be available to JioHotstar subscribers as an add-on starting at ₹49 (about $0.50) per month, and would feature content from HBO, Max Originals, Warner Bros. Pictures, Warner Bros. Television, and DC Studios. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Fathom adds a bot-less meeting mode in a bid to take on Granola</title>
+		<link>https://techcrunch.com/2026/04/15/fathom-adds-a-bot-less-meeting-mode-in-a-bid-to-take-on-granola/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 12:00:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[AI assistant]]></category>
+		<category><![CDATA[fathom]]></category>
+		<category><![CDATA[Meeting notetakers]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112214</guid>
+
+					<description><![CDATA[Fathom will allow you to choose between video, audio-only, and transcription modes.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Spotify launches the ability to purchase physical books in the US and UK</title>
+		<link>https://techcrunch.com/2026/04/15/spotify-launches-the-ability-to-purchase-physical-books-in-the-us-and-uk/</link>
+		
+		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 10:00:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Spotify]]></category>
+		<category><![CDATA[audiobooks]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112403</guid>
+
+					<description><![CDATA[Spotify users in the US and UK can officially purchase physical books through the Android app. iOS users will get the feature next week. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Anthropic&#8217;s rise is giving some OpenAI investors second thoughts</title>
+		<link>https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/</link>
+		
+		<dc:creator><![CDATA[Connie Loizos]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 02:31:04 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[iconiq capital]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112512</guid>
+
+					<description><![CDATA[One investor who has backed both companies told the FT that justifying OpenAI's recent round required assuming an IPO valuation of $1.2 trillion or more — making Anthropic's current $380 billion valuation look like the relative bargain. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AI data center startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report</title>
+		<link>https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2026 21:33:38 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[data centers]]></category>
+		<category><![CDATA[fluidstack]]></category>
+		<category><![CDATA[neocloud]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112415</guid>
+
+					<description><![CDATA[Fundraising is reportedly flowing for Fluidstack after it secured a $50 billion deal to build data centers for Anthropic.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Someone planted backdoors in dozens of WordPress plug-ins used in thousands of websites</title>
+		<link>https://techcrunch.com/2026/04/14/someone-planted-backdoors-in-dozens-of-wordpress-plugins-used-in-thousands-of-websites/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2026 18:31:34 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[supply chain]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112348</guid>
+
+					<description><![CDATA[Dozens of WordPress plug-ins were allegedly hijacked to push malware after they were sold to a new corporate owner.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Anthropic co-founder confirms the company briefed the Trump administration on Mythos</title>
+		<link>https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2026 18:09:12 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[jack clark]]></category>
+		<category><![CDATA[Mythos]]></category>
+		<category><![CDATA[national security]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112327</guid>
+
+					<description><![CDATA[In an interview at the Semafor World Economy summit this week, Anthropic co-founder Jack Clark explained why the company was still engaged with the U.S. government while simultaneously suing them.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>London gets closer to its first robotaxi service as Waymo begins testing</title>
+		<link>https://techcrunch.com/2026/04/14/london-gets-closer-to-its-first-robotaxi-service-as-waymo-begins-testing/</link>
+		
+		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2026 18:00:09 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[robotaxi]]></category>
+		<category><![CDATA[Waymo]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112315</guid>
+
+					<description><![CDATA[Waymo's commercial service will eventually follow testing if the U.K. government approves. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>YouTube livestreams will now hold back ads during peak engagement to protect the vibe</title>
+		<link>https://techcrunch.com/2026/04/14/youtube-livestreams-will-now-hold-back-ads-during-peak-engagement-to-protect-the-vibe/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2026 17:18:20 +0000</pubDate>
+				<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[YouTube]]></category>
+		<category><![CDATA[youtube livestreams]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112274</guid>
+
+					<description><![CDATA[Until now, the only way to avoid seeing ads was by paying for a YouTube Premium subscription. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Max Hodak’s Science Corp. is preparing to place its first sensor in a human brain</title>
+		<link>https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/</link>
+		
+		<dc:creator><![CDATA[Tim Fernholz]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2026 17:13:03 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Biotech & Health]]></category>
+		<category><![CDATA[BCI]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[Max Hodak]]></category>
+		<category><![CDATA[Science Corporation]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3111799</guid>
+
+					<description><![CDATA[The device could help address multiple neurological conditions if it proves successful. One early use could be delivering gentle electrical stimulation to damaged brain or spinal cord cells to encourage healing.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
