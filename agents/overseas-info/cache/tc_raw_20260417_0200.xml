@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>TechCrunch</title>
+	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://techcrunch.com/</link>
+	<description>Startup and Technology News</description>
+	<lastBuildDate>Thu, 16 Apr 2026 17:57:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.9.4</generator>
+
+<image>
+	<url>https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32</url>
+	<title>TechCrunch</title>
+	<link>https://techcrunch.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>It&#8217;s not just you — Bluesky is (sorta) down</title>
+		<link>https://techcrunch.com/2026/04/16/its-not-just-you-bluesky-is-sorta-down/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Thu, 16 Apr 2026 17:11:20 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Bluesky]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[denial of service]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3113243</guid>
+
+					<description><![CDATA[Bluesky has been experiencing ongoing service disruptions since just before 3 a.m. ET.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Everything we like is a psyop</title>
+		<link>https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/</link>
+		
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Thu, 16 Apr 2026 17:03:18 +0000</pubDate>
+				<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[chaotic good]]></category>
+		<category><![CDATA[geese]]></category>
+		<category><![CDATA[katseye]]></category>
+		<category><![CDATA[TikTok]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3113105</guid>
+
+					<description><![CDATA[If culture is shaped by TikTok's algorithmic feed, then it's time for us to decide where we draw the line between necessary marketing and inauthentic growth hacking.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google now lets you explore the web side-by-side with AI Mode</title>
+		<link>https://techcrunch.com/2026/04/16/google-now-lets-you-explore-the-web-side-by-side-with-ai-mode/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Thu, 16 Apr 2026 17:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[ai mode]]></category>
+		<category><![CDATA[Google]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3113130</guid>
+
+					<description><![CDATA[Now, when you're using AI Mode on Chrome desktop, clicking a link will open the webpage side-by-side with AI Mode. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Two Americans sentenced for helping North Korea steal $5 million in fake IT worker scheme</title>
+		<link>https://techcrunch.com/2026/04/16/two-americans-sentenced-for-helping-north-korea-steal-5-million-in-fake-it-worker-scheme/</link>
+		
+		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
+		<pubDate>Thu, 16 Apr 2026 16:16:51 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[department of justice]]></category>
+		<category><![CDATA[DPRK]]></category>
+		<category><![CDATA[Kim Jong-un]]></category>
+		<category><![CDATA[North Korea]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3113172</guid>
+
+					<description><![CDATA[The U.S. Department of Justice announced that two Americans were sentenced to years in prison for helping the North Korean government place fake IT workers in U.S. companies. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>InsightFinder raises $15M to help companies figure out where AI agents go wrong</title>
+		<link>https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/</link>
+		
+		<dc:creator><![CDATA[Ram Iyer]]></dc:creator>
+		<pubDate>Thu, 16 Apr 2026 16:15:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[data observability]]></category>
+		<category><![CDATA[Datadog]]></category>
+		<category><![CDATA[Dynatrace]]></category>
+		<category><![CDATA[Grafana Labs]]></category>
+		<category><![CDATA[InsightFinder]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3113071</guid>
+
+					<description><![CDATA[According to CEO Helen Gu, the biggest problem facing the industry today is not just monitoring and diagnosing where AI models go wrong — it's also diagnosing how the entire tech stack operates now that AI is part of it. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AI traffic to US retailers rose 393% in Q1, and it&#8217;s boosting their revenue too</title>
+		<link>https://techcrunch.com/2026/04/16/ai-traffic-to-us-retailers-rose-393-in-q1-and-its-boosting-their-revenue-too/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Thu, 16 Apr 2026 16:14:03 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Commerce]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[agentic commerce]]></category>
+		<category><![CDATA[eCommerce]]></category>
+		<category><![CDATA[online shopping]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3113133</guid>
+
+					<description><![CDATA[Adobe says AI traffic to U.S. retail sites also jumped 269% in March, with visitors converting better and generating more revenue than non-AI shoppers.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Roblox’s AI assistant gets new agentic tools to plan, build, and test games</title>
+		<link>https://techcrunch.com/2026/04/16/robloxs-ai-assistant-gets-new-agentic-tools-to-plan-build-and-test-games/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Thu, 16 Apr 2026 16:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[game design]]></category>
+		<category><![CDATA[game development]]></category>
+		<category><![CDATA[Roblox]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112875</guid>
+
+					<description><![CDATA[The new tools are designed to help creators throughout the entire development process.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google adds Nano Banana-powered image generation to Gemini&#8217;s Personal Intelligence</title>
+		<link>https://techcrunch.com/2026/04/16/google-adds-nano-banana-powered-image-generation-to-geminis-personal-intelligence/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Thu, 16 Apr 2026 16:00:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[gemini]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[image generation]]></category>
+		<category><![CDATA[Nano Banana 2]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3113146</guid>
+
+					<description><![CDATA[That means its AI images can be created using Gemini's understanding of your likes and interests, without those having to be explicitly noted in the prompt.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google is now targeting bad ads over bad actors</title>
+		<link>https://techcrunch.com/2026/04/16/google-blocked-more-ads-but-banned-fewer-advertisers-as-ai-reshapes-enforcement/</link>
+		
+		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
+		<pubDate>Thu, 16 Apr 2026 15:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[ad fraud]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Google Ads]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112896</guid>
+
+					<description><![CDATA[Google blocked 8.3 billion ads in 2025 but suspended fewer advertisers.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>You’ve heard of hybrid cars. Now meet a hybrid cement plant.</title>
+		<link>https://techcrunch.com/2026/04/16/youve-heard-of-hybrid-cars-now-meet-a-hybrid-cement-plant/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Thu, 16 Apr 2026 14:52:08 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[Industry]]></category>
+		<category><![CDATA[sosv]]></category>
+		<category><![CDATA[360 capital]]></category>
+		<category><![CDATA[heavy industry]]></category>
+		<category><![CDATA[electrification]]></category>
+		<category><![CDATA[cement]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112849</guid>
+
+					<description><![CDATA[Why choose fossil fuels or electricity when you can have both? NOC Energy has figured out how to hybridize heavy industry.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Runway CEO says AI could help Hollywood make 50 films instead of one $100M blockbuster</title>
+		<link>https://techcrunch.com/2026/04/16/runway-ceo-says-ai-could-help-hollywood-make-50-films-instead-of-one-100m-blockbuster/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Thu, 16 Apr 2026 14:14:29 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[Creators]]></category>
+		<category><![CDATA[film]]></category>
+		<category><![CDATA[Hollywood]]></category>
+		<category><![CDATA[runway]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112820</guid>
+
+					<description><![CDATA[Runway’s CEO says AI could help studios make dozens of films for the cost of one, betting volume will boost hit-making odds.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Meta raises Quest 3 and Quest 3S prices due to RAM shortage</title>
+		<link>https://techcrunch.com/2026/04/16/meta-raises-quest-3-and-quest-3s-prices-due-to-ram-shortage/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Thu, 16 Apr 2026 13:49:32 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[meta quest]]></category>
+		<category><![CDATA[VR]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3113102</guid>
+
+					<description><![CDATA[Starting April 19, the price of the Meta Quest 3S (128GB) and Meta Quest 3S (256GB) will go up by $50 to $349.99 and $449.99, respectively. The price of the Meta Quest 3 is going up by $100 to $599.99.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Canva&#8217;s AI assistant can now call various tools to make designs for you</title>
+		<link>https://techcrunch.com/2026/04/16/canvas-ai-assistant-can-now-call-various-tools-to-make-designs-for-you/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Thu, 16 Apr 2026 13:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[AI assistant]]></category>
+		<category><![CDATA[canva]]></category>
+		<category><![CDATA[Design Ai]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3113062</guid>
+
+					<description><![CDATA[The latest version of Canva's AI assistant lets users create editable designs with text prompts.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Fashion retailer Express left customers&#8217; personal data and order details exposed to the internet</title>
+		<link>https://techcrunch.com/2026/04/16/fashion-retailer-express-left-customers-personal-data-and-order-details-exposed-to-the-internet/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Thu, 16 Apr 2026 12:39:56 +0000</pubDate>
+				<category><![CDATA[Commerce]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[Express]]></category>
+		<category><![CDATA[personal information]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112904</guid>
+
+					<description><![CDATA[Retail giant Express was publicly spilling customer information to the open web. The bug is now fixed after TechCrunch alerted Express, but the company would not say if it plans to notify customers.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>This simulation startup wants to be the Cursor for physical AI</title>
+		<link>https://techcrunch.com/2026/04/16/this-simulation-startup-wants-to-be-the-cursor-for-physical-ai/</link>
+		
+		<dc:creator><![CDATA[Tim Fernholz]]></dc:creator>
+		<pubDate>Thu, 16 Apr 2026 12:30:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[A*]]></category>
+		<category><![CDATA[Antioch]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112969</guid>
+
+					<description><![CDATA[Antioch raised an $8.5 million seed round to create simulation tools for a new generation of robot builders. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>DeepL, known for text translation, now wants to translate your voice</title>
+		<link>https://techcrunch.com/2026/04/16/deepl-known-for-text-translation-now-wants-to-translate-your-voice/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Thu, 16 Apr 2026 08:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI translation]]></category>
+		<category><![CDATA[DeepL]]></category>
+		<category><![CDATA[voice AI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112571</guid>
+
+					<description><![CDATA[DeepL says its tech could be used for real-time translation with meeting tools like Zoom and Microsoft Teams.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Amazon-backed X-energy files to raise up to $800M in IPO</title>
+		<link>https://techcrunch.com/2026/04/15/amazon-backed-x-energy-files-to-raise-up-to-800m-in-ipo/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 22:44:26 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[IPO]]></category>
+		<category><![CDATA[nuclear power]]></category>
+		<category><![CDATA[X-Energy]]></category>
+		<category><![CDATA[nuclear fission]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3113010</guid>
+
+					<description><![CDATA[Nuclear startup X-energy hit the road today to sell prospective investors on its initial public offering.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ford EV and tech chief leaving automaker</title>
+		<link>https://techcrunch.com/2026/04/15/ford-ev-and-tech-chief-leaving-automaker/</link>
+		
+		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 21:52:05 +0000</pubDate>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[electric vehicles]]></category>
+		<category><![CDATA[EVs]]></category>
+		<category><![CDATA[Ford]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112976</guid>
+
+					<description><![CDATA[Doug Field had stints at Apple and Tesla before joining Ford in 2021.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Wait, could they still actually break up Live Nation?</title>
+		<link>https://techcrunch.com/2026/04/15/wait-could-they-still-actually-break-up-live-nation/</link>
+		
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 21:38:09 +0000</pubDate>
+				<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[Live Nation Entertainment]]></category>
+		<category><![CDATA[monopoly]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112945</guid>
+
+					<description><![CDATA[A federal jury found that Live Nation has acted illegally as a monopoly -- but the company just came to a tentative settlement with the DOJ last month. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Monarch Tractor&#8217;s collapse ends with an acquisition by Caterpillar</title>
+		<link>https://techcrunch.com/2026/04/15/monarch-tractors-collapse-ends-in-with-an-acquisition-by-caterpillar/</link>
+		
+		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 21:05:21 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[autonomous vehicles]]></category>
+		<category><![CDATA[caterpillar]]></category>
+		<category><![CDATA[electric vehicles]]></category>
+		<category><![CDATA[Mergers and Acquisitions]]></category>
+		<category><![CDATA[monarch tractor]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112942</guid>
+
+					<description><![CDATA[The startup had faced mounting pressure from dealers, farmers, and a co-founder who complained that Monarch's tech didn't work properly.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
