@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>TechCrunch</title>
+	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://techcrunch.com/</link>
+	<description>Startup and Technology News</description>
+	<lastBuildDate>Thu, 16 Apr 2026 08:00:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.9.4</generator>
+
+<image>
+	<url>https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32</url>
+	<title>TechCrunch</title>
+	<link>https://techcrunch.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>DeepL, known for text translation, now wants to translate your voice</title>
+		<link>https://techcrunch.com/2026/04/16/deepl-known-for-text-translation-now-wants-to-translate-your-voice/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Thu, 16 Apr 2026 08:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[DeepL]]></category>
+		<category><![CDATA[voice AI]]></category>
+		<category><![CDATA[AI translation]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112571</guid>
+
+					<description><![CDATA[DeepL says its tech could be used for real-time translation with meeting tools like Zoom and Microsoft Teams]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Amazon-backed X-energy files to raise up to $800M in IPO</title>
+		<link>https://techcrunch.com/2026/04/15/amazon-backed-x-energy-files-to-raise-up-to-800m-in-ipo/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 22:44:26 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[IPO]]></category>
+		<category><![CDATA[nuclear power]]></category>
+		<category><![CDATA[X-Energy]]></category>
+		<category><![CDATA[nuclear fission]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3113010</guid>
+
+					<description><![CDATA[Nuclear startup X-energy hit the road today to sell prospective investors on its initial public offering.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ford EV and tech chief leaving automaker</title>
+		<link>https://techcrunch.com/2026/04/15/ford-ev-and-tech-chief-leaving-automaker/</link>
+		
+		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 21:52:05 +0000</pubDate>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[electric vehicles]]></category>
+		<category><![CDATA[EVs]]></category>
+		<category><![CDATA[Ford]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112976</guid>
+
+					<description><![CDATA[Doug Field had stints at Apple and Tesla before joining Ford in 2021.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Wait, could they still actually break up Live Nation?</title>
+		<link>https://techcrunch.com/2026/04/15/wait-could-they-still-actually-break-up-live-nation/</link>
+		
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 21:38:09 +0000</pubDate>
+				<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[Live Nation Entertainment]]></category>
+		<category><![CDATA[monopoly]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112945</guid>
+
+					<description><![CDATA[A federal jury found that Live Nation has acted illegally as a monopoly -- but the company just came to a tentative settlement with the DOJ last month. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Monarch Tractor&#8217;s collapse ends with an acquisition by Caterpillar</title>
+		<link>https://techcrunch.com/2026/04/15/monarch-tractors-collapse-ends-in-with-an-acquisition-by-caterpillar/</link>
+		
+		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 21:05:21 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[autonomous vehicles]]></category>
+		<category><![CDATA[caterpillar]]></category>
+		<category><![CDATA[electric vehicles]]></category>
+		<category><![CDATA[Mergers and Acquisitions]]></category>
+		<category><![CDATA[monarch tractor]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112942</guid>
+
+					<description><![CDATA[The startup had faced mounting pressure from dealers, farmers, and a co-founder who complained that Monarch's tech didn't work properly.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI updates its Agents SDK to help enterprises build safer, more capable agents</title>
+		<link>https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/</link>
+		
+		<dc:creator><![CDATA[Lucas Ropek]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 19:28:36 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[agentic ai]]></category>
+		<category><![CDATA[agents]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112660</guid>
+
+					<description><![CDATA[OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hightouch reaches $100M ARR fueled by marketing tools powered by AI</title>
+		<link>https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/</link>
+		
+		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 18:55:12 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[marketing-technology]]></category>
+		<category><![CDATA[Hightouch]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112847</guid>
+
+					<description><![CDATA[The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>LinkedIn data shows AI isn&#8217;t to blame for hiring decline&#8230; yet</title>
+		<link>https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 18:51:54 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[hiring]]></category>
+		<category><![CDATA[Jobs]]></category>
+		<category><![CDATA[LinkedIn]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112726</guid>
+
+					<description><![CDATA[LinkedIn says hiring is down 20% since 2022, but blames higher interest rates — not AI — for the slowdown.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Feds will require data centers to show their power bills</title>
+		<link>https://techcrunch.com/2026/04/15/feds-will-require-data-centers-to-show-their-power-bills/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 18:50:48 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[data centers]]></category>
+		<category><![CDATA[electricity]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[U.S. Senate]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112830</guid>
+
+					<description><![CDATA[In a first, the U.S. Energy Information Agency said it will require data centers to disclose details of their energy use.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AI learning app Gizmo levels up with 13M users and a $22M investment</title>
+		<link>https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/</link>
+		
+		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 18:38:10 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[EdTech]]></category>
+		<category><![CDATA[Education]]></category>
+		<category><![CDATA[funding round]]></category>
+		<category><![CDATA[Gizmo]]></category>
+		<category><![CDATA[learning]]></category>
+		<category><![CDATA[Shine Capital]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112799</guid>
+
+					<description><![CDATA[Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Can AI judge journalism? A Thiel-backed startup says yes, even if it risks chilling whistleblowers</title>
+		<link>https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 18:33:20 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[objection ai]]></category>
+		<category><![CDATA[Aron D'Souza]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[Peter Thiel]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112765</guid>
+
+					<description><![CDATA[Objection, a Thiel-backed startup, aims to use AI to judge journalism, letting users pay to challenge stories. Critics warn it could chill whistleblowers and reshape how media accountability works.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google rolls out a native Gemini app for Mac</title>
+		<link>https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 18:22:13 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[gemini]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[mac]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112810</guid>
+
+					<description><![CDATA[You can share anything on their screen with Gemini to get help with what they're looking at in the moment, including local files.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>This Khosla-backed autonomous pod startup just raised $170M — now it&#8217;s aiming for more</title>
+		<link>https://techcrunch.com/2026/04/15/this-khosla-backed-autonomous-pod-startup-just-raised-170m-now-its-aiming-for-more/</link>
+		
+		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 17:46:28 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[glydways]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Khosla Ventures]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112687</guid>
+
+					<description><![CDATA[Glydways is in talks to raise another $250 million as it prepares to launch three pilot programs. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Accel raises $5B to back late-stage bets</title>
+		<link>https://techcrunch.com/2026/04/15/accel-raises-5b-to-back-late-stage-bets/</link>
+		
+		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 17:37:56 +0000</pubDate>
+				<category><![CDATA[Venture]]></category>
+		<category><![CDATA[Accel]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[late stage]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112701</guid>
+
+					<description><![CDATA[Accel announced on Tuesday that it raised $5 billion in fresh capital to back late-stage companies building AI.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>India&#8217;s vibe-coding startup Emergent enters OpenClaw-like AI agent space</title>
+		<link>https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space/</link>
+		
+		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 17:24:18 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[emergent]]></category>
+		<category><![CDATA[ai agent]]></category>
+		<category><![CDATA[openclaw]]></category>
+		<category><![CDATA[Wingman]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112723</guid>
+
+					<description><![CDATA[Emergent's Wingman lets users manage and automate tasks through chat on platforms like WhatsApp and Telegram.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Anthropic shrugs off VC funding offers valuing it at $800B+, for now</title>
+		<link>https://techcrunch.com/2026/04/15/anthropic-shrugs-off-vc-funding-offers-valuing-it-at-800b-for-now/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 16:21:21 +0000</pubDate>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112616</guid>
+
+					<description><![CDATA[VCs are frothing at the mouth to write more checks to Anthropic at a valuation that matches or beats OpenAI's.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Motorola sues social platforms and creators over posts, raising speech concerns in India</title>
+		<link>https://techcrunch.com/2026/04/15/motorola-sues-social-platforms-and-creators-over-posts-raising-speech-concerns-in-india/</link>
+		
+		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 16:00:17 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[Motorola]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112597</guid>
+
+					<description><![CDATA[Motorola has sought a permanent injunction restraining the defendants from publishing or sharing what it describes as false or defamatory content about its products, including reviews, videos, comments, and boycott campaigns.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Airwallex is about to take on Stripe and the rest of the payments industry — in the physical world</title>
+		<link>https://techcrunch.com/2026/04/15/airwallex-is-about-to-take-on-stripe-and-the-rest-of-the-payments-industry-in-the-physical-world/</link>
+		
+		<dc:creator><![CDATA[Connie Loizos]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 16:00:00 +0000</pubDate>
+				<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Airwallex]]></category>
+		<category><![CDATA[Jack Zhang]]></category>
+		<category><![CDATA[payments Tech]]></category>
+		<category><![CDATA[Square]]></category>
+		<category><![CDATA[stripe]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112527</guid>
+
+					<description><![CDATA[Airwallex, valued at $8 billion, is launching a point-of-sale product that lets businesses accept in-person payments in multiple countries via a single platform.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>After sale of its shoe business, Allbirds pivots to AI</title>
+		<link>https://techcrunch.com/2026/04/15/after-sale-of-its-shoe-business-allbirds-pivots-to-ai/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 14:24:31 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[allbirds]]></category>
+		<category><![CDATA[WTF]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112589</guid>
+
+					<description><![CDATA[Allbirds is ditching wool sneakers for AI servers, rebranding as NewBird AI after locking in a $50M convertible financing facility.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Sweden blames Russian hackers for attempting &#8216;destructive&#8217; cyberattack on thermal plant</title>
+		<link>https://techcrunch.com/2026/04/15/sweden-blames-russian-hackers-for-attempting-destructive-cyberattack-on-thermal-plant/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 14:21:39 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[russia]]></category>
+		<category><![CDATA[critical infrastructure]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[Sweden]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3112602</guid>
+
+					<description><![CDATA[Sweden's minister for civil defense said Russian hackers are "now attempting destructive cyber attacks against organizations in Europe."]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
